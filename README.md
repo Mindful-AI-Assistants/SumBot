@@ -36,6 +36,14 @@ And the best part is, you don't need to be a programmer to use it. This project 
 
 
 
+#
+
+###### <p align="center"> ⚖︎ This project is licensed under the Apache-2.0 License.<p align="center"> Copyright (c) 2023 </p>
+
+
+
+
+
 
 
 
