@@ -18,7 +18,7 @@ What if there was a solution to this problem that didn't require programming ski
 Considering a solution for this:<br>
 <br>
 
-###  **We introduce: :bowtie: SumBot ChatBot**
+###  <p align="center">  **We introduce: :bowtie: SumBot ChatBot**
 <br>
   
 An AI-Powered tool that automates the task of summarizing long messages for you!
