@@ -31,6 +31,8 @@ And the best part is, you don't need to be a programmer to use it. This project 
 
 2. **Slack**: This is the environment where our bot will reside. Slack is a communication platform that enables the creation and use of bots.
 
+3. **Zapier**: This is the tool that will integrate Slack with the OpenAI API. Zapier is an automation tool that allows you to create workflows between different platforms.
+
 
 
 
