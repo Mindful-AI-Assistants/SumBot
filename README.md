@@ -33,6 +33,9 @@ And the best part is, you don't need to be a programmer to use it. This project 
 
 3. **Zapier**: This is the tool that will integrate Slack with the OpenAI API. Zapier is an automation tool that allows you to create workflows between different platforms.
 
+4. ![_zapier](https://github.com/MindfulAI-Copilots-Bots/SumBot-FreeCode/assets/113218619/41356dcd-b39f-4922-b1dd-c88a1620efa8)
+
+
 
 
 
