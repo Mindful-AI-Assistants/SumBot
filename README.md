@@ -25,6 +25,15 @@ An AI-Powered tool that automates the task of summarizing long messages for you!
 And the best part is, you don't need to be a programmer to use it. This project utilizes three essential tools: the OpenAI API, Slack (where our bot resides), and Zapier for integration.
 <br>
 
+## 🤔 How It Works 
+
+1. **OpenAI API**: This is the brain of our bot. We will use the OpenAI API to harness the power of the GPT model, an artificial intelligence that excels at understanding and generating text.
+
+2. **Slack**: This is the environment where our bot will reside. Slack is a communication platform that enables the creation and use of bots.
+
+
+
+
 
 
 
