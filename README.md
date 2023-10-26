@@ -1,6 +1,7 @@
  <br> 
-
-# <p align="center"> 🤖 ChatBot FreeCode
+ 
+# <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="40"> SumBot FreeCode
+<br>
 
 # 
 
