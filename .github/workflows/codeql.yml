@@ -1,1 +1,25 @@
+name: Mark stale issues and pull requests
+
+on:
+  schedule:
+  - cron: '36 13 * * *'
+
+jobs:
+  stale:
+
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+
+    steps:
+    - uses: actions/stale@v5
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        stale-issue-message: 'Esta issue foi marcada por falta de atividade.'
+        stale-pr-message: 'Este pull request foi marcado por falta de atividade.'
+        stale-issue-label: 'no-issue-activity'
+        stale-pr-label: 'no-pr-activity'
+        days-before-stale: 60
+        days-before-close: 7
 
