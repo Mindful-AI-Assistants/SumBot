@@ -4,7 +4,7 @@
 
 <br>
 
-## <p align="center"> 🤖 AI-Powered ChatBot with GPT-3.5 Turbo integration.
+## <p align="center"> 🤖 **AI-Powered ChatBot with GPT-3.5 Turbo integration.**
 
 ## 💭 Food for thought
 
