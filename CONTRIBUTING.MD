@@ -1,5 +1,5 @@
 
-<h1>Contributing to MindfulAI Copilots and Bots  -FreeCode Project</h1>
+<h1>Contributing to MindfulAI Copilots and Bots  - SumBotFreeCode Project</h1>
 
 <p>Hello! I am very glad that you're interested in contributing to Fabiana Campanari's project. Whether you're an experienced programmer or making your first open source contribution, everyone is welcome!</p>
 
