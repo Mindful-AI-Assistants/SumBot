@@ -24,7 +24,7 @@ We introduce SumBot, a tool that automates the task of summarizing long messages
 
 1. **OpenAI API**: This is the brain of our bot. We will use the OpenAI API to harness the power of the GPT model, an artificial intelligence that excels at understanding and generating text.
 
-
+2. **Slack**: This is the environment where our bot will reside. Slack is a communication platform that enables the creation and use of bots.
 
 
 
