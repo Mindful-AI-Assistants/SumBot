@@ -39,3 +39,6 @@ We introduce SumBot, a tool that automates the task of summarizing long messages
 3. :telephone_receiver: **Customer Support Teams:** Support agents who need to quickly understand customer concerns in lengthy conversations. SumBot can help summarize customer interactions.
 
 4. :mag: **Curious Individuals:** Anyone who wants to stay updated on the latest news or topics of interest but doesn't have time to read extensive articles.
+
+5. :microscope: **Researchers:** Research professionals who want to summarize scientific papers or reports to identify relevant information for their research.
+
