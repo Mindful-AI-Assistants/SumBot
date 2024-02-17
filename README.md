@@ -32,5 +32,3 @@ We introduce SumBot, a tool that automates the task of summarizing long messages
 
 
 
-#
-
