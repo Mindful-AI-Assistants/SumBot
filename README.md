@@ -32,5 +32,5 @@ We introduce SumBot, a tool that automates the task of summarizing long messages
 
  ## :dart: Who Is It For? 
 
-
+1. :briefcase: **Business Professionals:** Managers and executives who need to keep up with a large volume of business communications and reports. SumBot can help them efficiently extract key information from extensive documents.
 
