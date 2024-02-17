@@ -28,6 +28,8 @@ We introduce SumBot, a tool that automates the task of summarizing long messages
 
 3. **Zapier**: This is the tool that will integrate Slack with the OpenAI API. Zapier is an automation tool that allows you to create workflows between different platforms.
 
+<img width="525" alt="_zapier" src="https://github.com/MindfulAI-Copilots-Bots/SumBotFreeCode/assets/113218619/9fa2434f-8e8e-4307-bd10-794559185706">
+
 
 
 #
