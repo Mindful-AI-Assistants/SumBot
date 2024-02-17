@@ -34,3 +34,4 @@ We introduce SumBot, a tool that automates the task of summarizing long messages
 
 1. :briefcase: **Business Professionals:** Managers and executives who need to keep up with a large volume of business communications and reports. SumBot can help them efficiently extract key information from extensive documents.
 
+2. :mortar_board: **Students:** Students who want to summarize lengthy texts, academic articles, or study documents to save time when reviewing content.
