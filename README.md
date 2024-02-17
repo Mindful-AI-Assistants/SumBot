@@ -30,5 +30,7 @@ We introduce SumBot, a tool that automates the task of summarizing long messages
 
  <p align="center"> <img width="525" alt="_zapier" src="https://github.com/MindfulAI-Copilots-Bots/SumBot-FreeCode/assets/113218619/3acd8045-5242-4576-90d8-255e11b9c04f">
 
+ ## Who Is It For? :dart:
+
 
 
