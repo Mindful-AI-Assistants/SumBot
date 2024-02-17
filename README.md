@@ -13,6 +13,8 @@ This is a project that leverages Artificial Intelligence (AI) in the business se
 
 Can you imagine having an assistant that helps you deal with information overload? Think about how this tool could make your life easier.
 
+SumBot is a tool that was created precisely for this purpose through the automation of conversations in ChatGPT when a new reaction with the bowtie emoji is added in Slack, ChatGPT itself will send a summarized response of the message within the Slack channel.
+
 ## :bulb: Why SumBot? 
  
 
