@@ -11,6 +11,8 @@ This is a project that leverages Artificial Intelligence (AI) in the business se
 
 ## 💭 Food for thought
 
+Can you imagine having an assistant that helps you deal with information overload? Think about how this tool could make your life easier.
+
 ## :bulb: Why SumBot? 
  
 
