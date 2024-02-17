@@ -26,6 +26,7 @@ We introduce SumBot, a tool that automates the task of summarizing long messages
 
 2. **Slack**: This is the environment where our bot will reside. Slack is a communication platform that enables the creation and use of bots.
 
+3. **Zapier**: This is the tool that will integrate Slack with the OpenAI API. Zapier is an automation tool that allows you to create workflows between different platforms.
 
 
 
