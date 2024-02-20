@@ -49,3 +49,5 @@ We introduce SumBot, a tool that automates the task of summarizing long messages
 8. :pencil2: **Writers and Authors:** Writers who want to extract key information from research and reference documents.
 
 These are just a few examples; SumBot has the potential to be useful in many other scenarios!
+
+## Advantages of SumBot:
