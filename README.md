@@ -53,3 +53,7 @@ These are just a few examples; SumBot has the potential to be useful in many oth
 ## Advantages of SumBot:
 
 The use of SumBot or a similar chatbot employing Artificial Intelligence to summarize messages or information can offer several advantages, including:
+
+#
+
+ AGPL-3.0 license
