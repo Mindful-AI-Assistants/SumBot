@@ -69,7 +69,8 @@ The use of SumBot or a similar chatbot employing Artificial Intelligence to summ
 7. :loudspeaker: **Social Media Monitoring and Brand Reputation:** Companies can use chatbots to summarize social media conversations and monitor what is being said about the brand or products.
 
 
-8. :books: **Reduction of Reading Fatigue:** 
+8. :books: **Reduction of Reading Fatigue:** Helps reduce reading fatigue, especially when dealing with a large amount of text.
+
    
 #
 
