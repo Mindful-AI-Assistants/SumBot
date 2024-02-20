@@ -62,6 +62,7 @@ The use of SumBot or a similar chatbot employing Artificial Intelligence to summ
 
 4. :inbox_tray: **Information Overload Management:** In a world with constant information overload, SumBot provides a solution for managing and filtering information, making it more manageable.
 
+5. :bar_chart: **Decision Support:** 
 
    
 #
