@@ -42,3 +42,5 @@ We introduce SumBot, a tool that automates the task of summarizing long messages
 
 5. :microscope: **Researchers:** Research professionals who want to summarize scientific papers or reports to identify relevant information for their research.
 
+6. :mega: **Marketing Professionals:** Marketers who want to monitor what is being said about their brand or products on social media and online forums.
+
