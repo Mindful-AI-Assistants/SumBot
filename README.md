@@ -78,6 +78,9 @@ The use of SumBot or a similar chatbot employing Artificial Intelligence to summ
 
 12. :gear: **Artificial Intelligence:** SumBot utilizes the OpenAI API, powered by the GPT model, one of the most advanced AI models for understanding and generating text.
 
+
+
+
    
 #
 
