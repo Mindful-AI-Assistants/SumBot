@@ -72,6 +72,9 @@ The use of SumBot or a similar chatbot employing Artificial Intelligence to summ
 
 9. :wheelchair: **Accessibility:** Facilitates access to information for people with reading difficulties, making content more accessible.
 
+10. :dart: **Consistency and Precision:** 
+
+
    
 #
 
