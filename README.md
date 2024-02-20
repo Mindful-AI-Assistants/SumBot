@@ -66,7 +66,7 @@ The use of SumBot or a similar chatbot employing Artificial Intelligence to summ
 
 6. :mortar_board: **Learning and Education:** Students and researchers can use SumBot to summarize academic and research documents, speeding up the learning and research process.
 
-7. :loudspeaker: **Social Media Monitoring and Brand Reputation:** 
+7. :loudspeaker: **Social Media Monitoring and Brand Reputation:** Companies can use chatbots to summarize social media conversations and monitor what is being said about the brand or products.
    
 #
 
