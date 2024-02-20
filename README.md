@@ -64,6 +64,8 @@ The use of SumBot or a similar chatbot employing Artificial Intelligence to summ
 
 5. :bar_chart: **Decision Support:** For professionals and decision-makers, SumBot can provide summaries of reports and analyses that facilitate informed decision-making.
 
+6. :mortar_board: **Learning and Education:**
+
    
 #
 
