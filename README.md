@@ -56,7 +56,7 @@ The use of SumBot or a similar chatbot employing Artificial Intelligence to summ
 
 1. :hourglass: **Time Savings:** One of the most significant advantages is time savings. SumBot can quickly analyze and summarize extensive messages or documents, saving users the effort of reading and comprehending the complete content.
 
-2. :mag_right: **Quick Access to Relevant Information:** 
+2. :mag_right: **Quick Access to Relevant Information:** Helps users access relevant and critical information without the need to go through large volumes of text.
 
 #
 
