@@ -56,5 +56,6 @@ The use of SumBot or a similar chatbot employing Artificial Intelligence to summ
 
 #
 
-##### <p align="center"> [Copyright 2024 MindfulAI-Copilots-Bots. Code released under the  AGPL-3.0 license.](https://github.com/FabianaCampanari/SQL_LABS/blob/5a8f935d961852f4801c868033cbdeb53e003b80/LICENSE)
+##### <p align="center"> [Copyright 2024 MindfulAI-Copilots-Bots. Code released under the  AGPL-3.0 license.](https://github.com/MindfulAI-Copilots-Bots/SumBot-FreeCode/blob/5342be5669e956107746a87dda6d0ade7e861bdb/LICENSE)
+
 
