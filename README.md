@@ -54,7 +54,7 @@ These are just a few examples; SumBot has the potential to be useful in many oth
 
 The use of SumBot or a similar chatbot employing Artificial Intelligence to summarize messages or information can offer several advantages, including:
 
-
+1. :hourglass: **Time Savings:** One of the most significant advantages is time savings. SumBot can quickly analyze and summarize extensive messages or documents, saving users the effort of reading and comprehending the complete content.
 
 #
 
