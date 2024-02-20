@@ -45,3 +45,5 @@ We introduce SumBot, a tool that automates the task of summarizing long messages
 6. :mega: **Marketing Professionals:** Marketers who want to monitor what is being said about their brand or products on social media and online forums.
 
 7. :school: **Educators:** Teachers who want to simplify lengthy texts to make them more accessible to students.
+
+8. :pencil2: **Writers and Authors:** Writers who want to extract key information from research and reference documents.
