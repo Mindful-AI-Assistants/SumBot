@@ -58,7 +58,7 @@ The use of SumBot or a similar chatbot employing Artificial Intelligence to summ
 
 2. :mag_right: **Quick Access to Relevant Information:** Helps users access relevant and critical information without the need to go through large volumes of text.
 
-3. :rocket: **Improved Productivity:** 
+3. :rocket: **Improved Productivity:** The ability to obtain information summaries helps improve productivity, as users can focus on the most important and relevant content.
 
 #
 
