@@ -64,7 +64,7 @@ The use of SumBot or a similar chatbot employing Artificial Intelligence to summ
 
 5. :bar_chart: **Decision Support:** For professionals and decision-makers, SumBot can provide summaries of reports and analyses that facilitate informed decision-making.
 
-6. :mortar_board: **Learning and Education:**
+6. :mortar_board: **Learning and Education:** Students and researchers can use SumBot to summarize academic and research documents, speeding up the learning and research process.
 
    
 #
