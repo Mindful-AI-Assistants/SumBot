@@ -74,7 +74,7 @@ The use of SumBot or a similar chatbot employing Artificial Intelligence to summ
 
 10. :dart: **Consistency and Precision:** Chatbots perform their tasks consistently and accurately, avoiding human errors.
 
-11. :art: **Customization:** S
+11. :art: **Customization:** SumBot can be customized to meet specific needs, such as adjusting the length of the summary or the emoji reaction that triggers the bot.
 
    
 #
