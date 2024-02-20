@@ -60,7 +60,7 @@ The use of SumBot or a similar chatbot employing Artificial Intelligence to summ
 
 3. :rocket: **Improved Productivity:** The ability to obtain information summaries helps improve productivity, as users can focus on the most important and relevant content.
 
-4. :inbox_tray: **Information Overload Management:**
+4. :inbox_tray: **Information Overload Management:** In a world with constant information overload, SumBot provides a solution for managing and filtering information, making it more manageable.
 
 
    
