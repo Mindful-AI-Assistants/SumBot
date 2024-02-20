@@ -76,6 +76,8 @@ The use of SumBot or a similar chatbot employing Artificial Intelligence to summ
 
 11. :art: **Customization:** SumBot can be customized to meet specific needs, such as adjusting the length of the summary or the emoji reaction that triggers the bot.
 
+12. :gear: **Artificial Intelligence:** 
+
    
 #
 
