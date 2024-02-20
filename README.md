@@ -70,7 +70,8 @@ The use of SumBot or a similar chatbot employing Artificial Intelligence to summ
 
 8. :books: **Reduction of Reading Fatigue:** Helps reduce reading fatigue, especially when dealing with a large amount of text.
 
-9. :wheelchair: **Accessibility:** 
+9. :wheelchair: **Accessibility:** Facilitates access to information for people with reading difficulties, making content more accessible.
+
    
 #
 
