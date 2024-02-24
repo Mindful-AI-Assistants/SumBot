@@ -88,7 +88,7 @@ In summary, the use of a chatbot like SumBot can improve efficiency, save time, 
 
 2. :clapper: **Demo 2:**2_Building the ChatGpT 3.5 Turbo Integration with Slack on Zapier
 
-3. :clapper: **Demo 3:** Building the integration of Slack with ChatGpT-3.5 Turbo
+3. :clapper: **Demo 3:** Building the integration of Slack with ChatGpT-3.5 Turbo, Turbo, with the use of an API from OpenAI and return a summary response
 
 
    
