@@ -96,7 +96,9 @@ In summary, the use of a chatbot like SumBot can improve efficiency, save time, 
 
 1. Slack - https://slack.com
 2. Zapier - https://zapier.com
-4. Monica AI https://monica.im   
+4. Monica AI https://monica.im
+
+## Our Team in the IBS IA Competition - 2023  :star:
    
 
 
