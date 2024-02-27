@@ -101,7 +101,8 @@ In summary, the use of a chatbot like SumBot can improve efficiency, save time, 
 ## Our Team in the IBS IA Competition - 2023  :star:
 
 - 🇧🇷 Fabiana Campanari - fabicampanari@gmail.com
-- 🇲🇦 Hajar ZEROUANI -  hajar.zerouani@um5r.ac.ma 
+- 🇲🇦 Hajar ZEROUANI -  hajar.zerouani@um5r.ac.ma
+- 🇵🇭 Hannah Patricia P. Dela Cruz -
    
 
 
