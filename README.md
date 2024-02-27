@@ -90,6 +90,8 @@ In summary, the use of a chatbot like SumBot can improve efficiency, save time, 
 
 3. :clapper: **Demo 3:** Building the integration of Slack with ChatGpT-3.5 Turbo, Turbo, with the use of an API from OpenAI and return a summary response  in the Slack thread every time someone uses a reaction with the bowtie emoji, and utilizing the AI Monica virtual assistant to compose message
 
+4. :clapper: **Demo 4:** Testing the functionality of SumBot using the AI Monica virtual assistant to compose messages
+
 
    
 #
