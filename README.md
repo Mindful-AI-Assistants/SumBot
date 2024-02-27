@@ -82,7 +82,7 @@ The use of SumBot or a similar chatbot employing Artificial Intelligence to summ
 In summary, the use of a chatbot like SumBot can improve efficiency, save time, and facilitate access to important information, making it valuable in a variety of scenarios, from the business environment to education and beyond.
 
 
-## Demo Videos:
+## 🎥 Demo Videos:
 
 1. :clapper: **Demo 1:** Building Slack Integration on Zappier
 
