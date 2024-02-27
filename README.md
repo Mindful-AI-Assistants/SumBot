@@ -99,6 +99,8 @@ In summary, the use of a chatbot like SumBot can improve efficiency, save time, 
 4. Monica AI https://monica.im
 
 ## Our Team in the IBS IA Competition - 2023  :star:
+
+- 🇧🇷 Fabiana Campanari -  fabicampanari@gmail.com
    
 
 
