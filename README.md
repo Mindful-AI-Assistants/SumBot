@@ -107,6 +107,8 @@ In summary, the use of a chatbot like SumBot can improve efficiency, save time, 
 
 # Acknowledgements
 
+We would like to thank all the contributors who helped make this project possible. 
+
   
 #
 
