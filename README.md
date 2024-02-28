@@ -102,7 +102,7 @@ In summary, the use of a chatbot like SumBot can improve efficiency, save time, 
 - 🇧🇷 Fabiana Campanari - fabicampanari@gmail.com
 - 🇲🇦 Hajar ZEROUANI - hajar.zerouani@um5r.ac.ma
 - 🇵🇭 Hannah Patricia P. Dela Cruz - hannahpatriciadp@gmail.com
-- 🇧🇷 Jonathan Inacio da Veiga Walendolf
+- 🇧🇷 Jonathan Inacio da Veiga Walendolf  - Jonathan.walendolf@gmail.com
    
 
 
