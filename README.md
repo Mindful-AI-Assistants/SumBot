@@ -2,6 +2,8 @@
  
 # <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="40"> SumBot FreeCode
 
+<!-- :bowtie: <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="48"> -->
+
 <br>
 
 ## <p align="center"> 🤖 **AI-Powered ChatBot with GPT-3.5 Turbo integration.**
