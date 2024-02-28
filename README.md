@@ -105,6 +105,7 @@ In summary, the use of a chatbot like SumBot can improve efficiency, save time, 
 - 🇧🇷 Jonathan Inacio da Veiga Walendolf  - Jonathan.walendolf@gmail.com
 - 🇲🇦 Kawtar Harmali - harmalikawtar@gmail.com  
 
+# Acknowledgements
 
   
 #
