@@ -116,7 +116,7 @@ We would like to thank all the contributors who helped make this project possibl
 - [Fabiana Campanari](https://github.com/FabianaCampanari) 
 - [Jonathan Walendolf](https://github.com/username) 
 - [Hajar Zerouani](https://github.com/zerouani) 
-- [kawtar1234](https://github.com/kawtar1234) - Harmali Kawtar
+- [Harmali Kawtar](https://github.com/kawtar1234) 
 - [heinah](https://github.com/heinah) - Hannah Dela Cruz 
 
 
