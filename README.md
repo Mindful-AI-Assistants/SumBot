@@ -12,7 +12,7 @@ This is a project that leverages Artificial Intelligence (AI) in the business se
 
 ## Contribution
 
-The repository contains all the necessary documentation, including HTML and Ruby, and the four demos that showcase the team's capabilities.
+The repository contains all the necessary documentation, including HTML and Ruby, and the four demos that showcase the team's capabilities. The demos are available for anyone to access and can be used to develop the final script for the video. Our organization encourages everyone to participate in the project and contribute to its success.
 
 ## 💭 Food for thought
 
