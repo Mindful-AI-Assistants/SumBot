@@ -101,7 +101,11 @@ In summary, the use of a chatbot like SumBot can improve efficiency, save time, 
 
 ## :octocat: Our Team in the IBS AI Competition - 2023  
 
-- 🇧🇷 
+- 🇧🇷 [Fabiana Campanari](https://github.com/FabianaCampanari) 
+- [Jonathan Walendolf](https://github.com/jonathanwdolf) 
+- [Hajar Zerouani](https://github.com/zerouani) 
+- [Harmali Kawtar](https://github.com/kawtar1234) 
+- [Hannah Dela Cruz ](https://github.com/heinah) 
 
 ## :star: Acknowledgements
 
