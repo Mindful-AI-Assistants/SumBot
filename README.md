@@ -115,8 +115,9 @@ We would like to thank all the contributors who helped make this project possibl
 
 - [FabianaCampanari](https://github.com/FabianaCampanari)
 - [jonathanwdolf](https://github.com/username)
+- [ zerouani](https://github.com/username) 
 
-  zerouani
+ 
 
   
 #
