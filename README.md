@@ -99,7 +99,7 @@ In summary, the use of a chatbot like SumBot can improve efficiency, save time, 
 2. Zapier - https://zapier.com
 4. Monica AI https://monica.im
 
-## :star: Our Team in the IBS AI Competition - 2023  
+## :octocat: Our Team in the IBS AI Competition - 2023  
 
 - 🇧🇷 Fabiana Campanari 
 - 🇲🇦 Hajar ZEROUANI  
@@ -107,7 +107,7 @@ In summary, the use of a chatbot like SumBot can improve efficiency, save time, 
 - 🇧🇷 Jonathan Inacio da Veiga Walendolf  
 - 🇲🇦 Kawtar Harmali 
 
-## :octocat: Acknowledgements
+## :star: Acknowledgements
 
 We would like to thank all the contributors who helped make this project possible. Your hard work and dedication are greatly appreciated and we couldn't have done it without you.
 
