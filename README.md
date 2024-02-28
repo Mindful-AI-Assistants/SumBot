@@ -103,7 +103,9 @@ In summary, the use of a chatbot like SumBot can improve efficiency, save time, 
 
 - 🇧🇷 [Fabiana Campanari](https://github.com/FabianaCampanari)
 
-- 🇲🇦 [Hajar Zerouani](https://github.com/zerouani) 
+- 🇲🇦 [Hajar Zerouani](https://github.com/zerouani)
+
+- 🇵🇭 [Hannah Dela Cruz ](https://github.com/heinah)
   
 - 🇧🇷 [Jonathan Walendolf](https://github.com/jonathanwdolf)
   
