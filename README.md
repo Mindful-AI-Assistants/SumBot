@@ -113,7 +113,7 @@ We would like to thank all the contributors who helped make this project possibl
 
 <!-- [GitHub username](https://github.com/username) - Real name (Email address) -->
 
-- [FabianaCampanari](https://github.com/FabianaCampanari) - Fabiana Campanari
+- [Fabiana Campanari](https://github.com/FabianaCampanari) - Fabiana Campanari
 <!--  - [jonathanwdolf](https://github.com/username) - Jonathan Walendolf
 - [zerouani](https://github.com/zerouani) - Hajar Zerouani
 - [kawtar1234](https://github.com/kawtar1234) - Harmali Kawtar
