@@ -119,26 +119,12 @@ We would like to thank all the contributors who helped make this project possibl
 - 🇧🇷 [Jonathan Walendolf](https://github.com/jonathanwdolf)
   
 
-
-
 ## 📚 References:
 
 1. Slack - https://slack.com
 2. Zapier - https://zapier.com
 4. Monica AI https://monica.im
-
-
-
-
-
-<!-- [GitHub username](https://github.com/username) - Real name (Email address) -->
-
-
-
-
  
-
-  
 #
 
 ###### <p align="center"> [Copyright 2024 MindfulAI-Copilots-Bots. Code released under the  AGPL-3.0 license.](https://github.com/MindfulAI-Copilots-Bots/SumBot-FreeCode/blob/5342be5669e956107746a87dda6d0ade7e861bdb/LICENSE)
