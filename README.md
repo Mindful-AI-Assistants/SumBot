@@ -114,18 +114,7 @@ We would like to thank all the contributors who helped make this project possibl
 2. Zapier - https://zapier.com
 4. Monica AI https://monica.im
 
-## :octocat: Our Team in the IBS AI Competition - 2023  
 
-- 🇧🇷 [Fabiana Campanari](https://github.com/FabianaCampanari)
-
-- 🇲🇦 [Hajar Zerouani](https://github.com/zerouani)
-
-- 🇵🇭 [Hannah Dela Cruz ](https://github.com/heinah)
-
-- 🇲🇦 [Harmali Kawtar](https://github.com/kawtar1234)
-  
-- 🇧🇷 [Jonathan Walendolf](https://github.com/jonathanwdolf)
-  
 
 
 
