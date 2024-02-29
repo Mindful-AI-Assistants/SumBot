@@ -106,6 +106,19 @@ In summary, the use of a chatbot like SumBot can improve efficiency, save time, 
 
 We would like to thank all the contributors who helped make this project possible. Your hard work and dedication are greatly appreciated and we couldn't have done it without you.
 
+## :octocat: Our Team in the IBS AI Competition - 2023  
+
+- 🇧🇷 [Fabiana Campanari](https://github.com/FabianaCampanari)
+
+- 🇲🇦 [Hajar Zerouani](https://github.com/zerouani)
+
+- 🇵🇭 [Hannah Dela Cruz ](https://github.com/heinah)
+
+- 🇲🇦 [Harmali Kawtar](https://github.com/kawtar1234)
+  
+- 🇧🇷 [Jonathan Walendolf](https://github.com/jonathanwdolf)
+  
+
 
 
 ## 📚 References:
