@@ -125,7 +125,7 @@ We would like to thank all the contributors who helped make this project possibl
 
 ## 📚 References:
 
-1. OpenAI - https://slack.com
+1. OpenAI - https://platform.openai.com/
 2. Slack - https://slack.com
 3. Zapier - https://zapier.com
 4. Monica AI https://monica.im
