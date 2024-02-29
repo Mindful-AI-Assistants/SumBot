@@ -102,6 +102,12 @@ In summary, the use of a chatbot like SumBot can improve efficiency, save time, 
 
 4. :clapper: **Demo 4:** Testing the functionality of SumBot using the AI Monica virtual assistant to compose messages
 
+## :star: Acknowledgements
+
+We would like to thank all the contributors who helped make this project possible. Your hard work and dedication are greatly appreciated and we couldn't have done it without you.
+
+
+
 ## 📚 References:
 
 1. Slack - https://slack.com
@@ -121,9 +127,7 @@ In summary, the use of a chatbot like SumBot can improve efficiency, save time, 
 - 🇧🇷 [Jonathan Walendolf](https://github.com/jonathanwdolf)
   
 
-## :star: Acknowledgements
 
-We would like to thank all the contributors who helped make this project possible. Your hard work and dedication are greatly appreciated and we couldn't have done it without you.
 
 <!-- [GitHub username](https://github.com/username) - Real name (Email address) -->
 
