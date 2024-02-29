@@ -17,8 +17,7 @@ The repository contains all the necessary documentation, including HTML and Ruby
 <br>
 
 #### **<p align="center">[One People. One World. One Spirit... We Are All One!]() </p>**
-
-#### **<p align="center"> 🌎💙
+#### <p align="center"> 🌎💙
 
 <br>
 
