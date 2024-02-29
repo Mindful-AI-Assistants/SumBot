@@ -1,4 +1,3 @@
-
 <h2>Contributing to MindfulAI Copilots and Bots  𖤐 SumBotFreeCode Project</h2>
 
 <p>Hello! I am very glad that you're interested in contributing to SumBotFreeCode project. Whether you're an experienced programmer or making your first open source contribution, everyone is welcome!</p>
