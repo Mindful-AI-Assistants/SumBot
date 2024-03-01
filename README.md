@@ -26,6 +26,7 @@ The repository contains all the necessary documentation, including HTML and Ruby
 <br>
 
 ## 💭 Food for thought
+ <br> 
 
 Can you imagine having an assistant that helps you deal with information overload? Think about how this tool could make your life easier.
 
