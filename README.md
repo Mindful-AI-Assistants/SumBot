@@ -101,7 +101,7 @@ In summary, the use of a chatbot like SumBot can improve efficiency, save time, 
 
 https://github.com/MindfulAI-Copilots-Bots/SumBot-FreeCode/assets/113218619/a66c2666-d8d3-430e-a37b-4f8b97779800
 
-
+ <br> 
 
 
 2. :clapper: **Demo 2:**2_Building the ChatGpT 3.5 Turbo Integration with Slack on Zapier
