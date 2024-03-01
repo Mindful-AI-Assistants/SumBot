@@ -11,6 +11,7 @@
 This is a project that leverages Artificial Intelligence (AI) in the business sector. It was created specifically for the Project and Startup Competition promoted by the International Business School Americas (IBS Americas). This initiative is a collaborative effort with various universities and foundations, both public and private, from Europe and the United States. The project reveals the activities related to the competition, which centers on projects and startups utilizing AI.
 
 ## 🤝 Contribution
+ <br> 
 
 The repository contains all the necessary documentation, including HTML and Ruby files, and the six demos that showcase the team's capabilities. The demos are available for anyone to access and can be used to develop the final script for the video. MindfulAI Copilots & Bots Organization encourages everyone to participate in the project and contribute to its success.
 
