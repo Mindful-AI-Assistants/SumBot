@@ -97,6 +97,13 @@ In summary, the use of a chatbot like SumBot can improve efficiency, save time, 
 
 1. :clapper: **Demo 1:** Building Slack Integration on Zappier
 
+
+
+https://github.com/MindfulAI-Copilots-Bots/SumBot-FreeCode/assets/113218619/a66c2666-d8d3-430e-a37b-4f8b97779800
+
+
+
+
 2. :clapper: **Demo 2:**2_Building the ChatGpT 3.5 Turbo Integration with Slack on Zapier
 
 3. :clapper: **Demo 3:** Building the integration of Slack with ChatGpT-3.5 Turbo, Turbo, with the use of an API from OpenAI and return a summary response  in the Slack thread every time someone uses a reaction with the bowtie emoji, and utilizing the AI Monica virtual assistant to compose message
