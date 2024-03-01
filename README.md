@@ -62,7 +62,7 @@ We introduce SumBot, a tool that automates the task of summarizing long messages
 
 These are just a few examples; SumBot has the potential to be useful in many other scenarios!
 
-## 👍 Advantages of SumBot:
+## 👌 Advantages of SumBot:
 
 The use of SumBot or a similar chatbot employing Artificial Intelligence to summarize messages or information can offer several advantages, including:
 
