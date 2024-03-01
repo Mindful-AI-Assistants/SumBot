@@ -33,6 +33,7 @@ Can you imagine having an assistant that helps you deal with information overloa
 SumBot is a tool that was created precisely for this purpose through the automation of conversations in ChatGPT when a new reaction with the bowtie emoji is added in Slack, ChatGPT itself will send a summarized response of the message within the Slack channel.
 
 ## :bulb: Why SumBot? 
+ <br> 
  
 In today's world of information overload, we are often bombarded with lengthy texts and messages. What if there was a solution to this problem that didn't require programming skills? 
 We introduce SumBot, a tool that automates the task of summarizing long messages for you. And the best part is, you don't need to be a programmer to use it. This project utilizes three essential tools: the OpenAI API, Slack (where our bot resides), and Zapier for integration.
