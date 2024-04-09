@@ -4,8 +4,7 @@ pull_request:
 # Run Image Actions when JPG, JPEG, PNG or Webp files are added or c
 # See https://help.github.com/en/actions/automating-your-workflow-wi
 paths:
-*** jpg'
+- '**• jpg'
 - '**• jpeg'
-「*＊
-•png'
-'**•webp'
+- '**• png'
+- '**•webp'
