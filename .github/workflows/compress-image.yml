@@ -1,0 +1,11 @@
+/ / https://github.com/bdougie/live/blob/main/•github/workflows/image-con
+name: Compress Images on :
+pull_request:
+# Run Image Actions when JPG, JPEG, PNG or Webp files are added or c
+# See https://help.github.com/en/actions/automating-your-workflow-wi
+paths:
+*** jpg'
+- '**• jpeg'
+「*＊
+•png'
+'**•webp'
