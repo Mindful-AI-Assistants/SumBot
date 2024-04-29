@@ -149,4 +149,4 @@ We would like to thank all the contributors who helped make this project possibl
  
 #
 
-###### <p align="center">[Copyright 2024 Mindful-AI-Assistants. Code released under the  MIT license.](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/blob/ed50e73edbc89242bfb21dbf16aef236e1ec9d1f/LICENSE)
+###### <p align="center">[Copyright 2024 Mindful AI Assistants. Code released under the  MIT license.](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/blob/ed50e73edbc89242bfb21dbf16aef236e1ec9d1f/LICENSE)
