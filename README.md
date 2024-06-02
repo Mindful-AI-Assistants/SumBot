@@ -111,9 +111,9 @@ https://github.com/MindfulAI-Copilots-Bots/SumBot-FreeCode/assets/113218619/a66c
 
 2. :clapper: **Demo 2:** Building the ChatGpT 3.5 Turbo Integration with Slack on Zapier
 
-
 https://github.com/MindfulAI-Copilots-Bots/SumBot-FreeCode/assets/113218619/6b3eaf88-76be-4676-84f7-ffe73f97e4fb
 
+ <br><br> 
 
 3. :clapper: **Demo 3:** Building the integration of Slack with ChatGpT-3.5 Turbo, Turbo, with the use of an API from OpenAI and return a summary response  in the Slack thread every time someone uses a reaction with the bowtie emoji, and utilizing the AI Monica virtual assistant to compose message
 
