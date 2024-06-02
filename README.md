@@ -118,6 +118,8 @@ https://github.com/MindfulAI-Copilots-Bots/SumBot-FreeCode/assets/113218619/6b3e
 3. :clapper: **Demo 3:** Building the integration of Slack with ChatGpT-3.5 Turbo, Turbo, with the use of an API from OpenAI and return a summary response  in the Slack thread every time someone uses a reaction with the bowtie emoji, and utilizing the AI Monica virtual assistant to compose message
 
 https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/d8fbcfa9-4976-439f-9c6d-d8da2c89c413
+
+ <br><br> 
    
 
 4. :clapper: **Demo 4:** Testing the functionality of SumBot using the AI Monica virtual assistant to compose messages
