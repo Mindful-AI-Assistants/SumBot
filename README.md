@@ -22,7 +22,6 @@ The repository contains all the necessary documentation, including HTML and Ruby
 
 #### **<p align="center">[One People. One World. One Spirit... We Are All One!]() </p>**
 #### <p align="center"> 🌎💙
-
 <br>
 
 ## 💭 Food for thought
@@ -97,7 +96,6 @@ The use of SumBot or a similar chatbot employing Artificial Intelligence to summ
 12. :gear: **Artificial Intelligence:** SumBot utilizes the OpenAI API, powered by the GPT model, one of the most advanced AI models for understanding and generating text.
 
 In summary, the use of a chatbot like SumBot can improve efficiency, save time, and facilitate access to important information, making it valuable in a variety of scenarios, from the business environment to education and beyond.
-
 <br>
  
 ## 🎥 Demo Videos:
