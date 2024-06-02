@@ -177,7 +177,18 @@ We would like to thank all the contributors who helped make this project possibl
 2. [Slack](https://slack.com)
 3. [Zapier](https://zapier.com)
 4. [Monica AI](https://monica.im)
+
+ <br>   
  
+## 🪪 Fabiana Campanari IBS's Certificates:
+
+1. [Certicate 1]()
+2. [Certicate 2]()
+3. [Certicate 3]()
+4. [Certicate 4]()
+
+
+
 #
 
 ###### <p align="center">[Copyright 2024 Mindful AI Assistants. Code released under the  MIT license.](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/blob/ed50e73edbc89242bfb21dbf16aef236e1ec9d1f/LICENSE)
