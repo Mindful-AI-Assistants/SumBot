@@ -126,7 +126,7 @@ https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/d8fbcf
 https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/59ce8336-9913-4272-9b1d-d4c02e276c69
 
 
-
+5- :clapper: **Demo :** Extra tools that can be integrated with OpenAI on Zapier
 
 https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/e20d5547-7461-4901-9b40-bb0142fa2b39
 
