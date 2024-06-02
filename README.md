@@ -1,4 +1,7 @@
- <br><br>  
+
+ 
+ 
+ <br>
  
 # <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="40"> SumBot FreeCode
 
@@ -7,6 +10,7 @@
 <br>
 
 ## <p align="center"> 🤖 **AI-Powered ChatBot with GPT-3.5 Turbo integration.**
+
 <br> 
 
 This is a project that leverages Artificial Intelligence (AI) in the business sector. It was created specifically for the Project and Startup Competition promoted by the International Business School Americas (IBS Americas). This initiative is a collaborative effort with various universities and foundations, both public and private, from Europe and the United States. The project reveals the activities related to the competition, which centers on projects and startups utilizing AI.
@@ -14,6 +18,7 @@ This is a project that leverages Artificial Intelligence (AI) in the business se
  <br> 
 
 ## 🤝 Contribution
+
  <br> 
 
 The repository contains all the necessary documentation, including HTML and Ruby files, and the six demos that showcase the team's capabilities. The demos are available for anyone to access and can be used to develop the final script for the video. MindfulAI Copilots & Bots Organization encourages everyone to participate in the project and contribute to its success.
@@ -22,9 +27,11 @@ The repository contains all the necessary documentation, including HTML and Ruby
 
 #### **<p align="center">[One People. One World. One Spirit... We Are All One!]() </p>**
 #### <p align="center"> 🌎💙
+
 <br>
 
 ## 💭 Food for thought
+
  <br> 
 
 Can you imagine having an assistant that helps you deal with information overload? Think about how this tool could make your life easier.
@@ -32,10 +39,13 @@ Can you imagine having an assistant that helps you deal with information overloa
 SumBot is a tool that was created precisely for this purpose through the automation of conversations in ChatGPT when a new reaction with the bowtie emoji is added in Slack, ChatGPT itself will send a summarized response of the message within the Slack channel.
 
 ## :bulb: Why SumBot? 
+
  <br> 
  
 In today's world of information overload, we are often bombarded with lengthy texts and messages. What if there was a solution to this problem that didn't require programming skills? 
 We introduce SumBot, a tool that automates the task of summarizing long messages for you. And the best part is, you don't need to be a programmer to use it. This project utilizes three essential tools: the OpenAI API, Slack (where our bot resides), and Zapier for integration.
+
+<br>
 
 ## :art: How It Works 
 
@@ -46,6 +56,8 @@ We introduce SumBot, a tool that automates the task of summarizing long messages
 3. **Zapier**: This is the tool that will integrate Slack with the OpenAI API. Zapier is an automation tool that allows you to create workflows between different platforms.
 
  <p align="center"> <img width="525" alt="_zapier" src="https://github.com/MindfulAI-Copilots-Bots/SumBot-FreeCode/assets/113218619/3acd8045-5242-4576-90d8-255e11b9c04f">
+
+ <br><br>
 
  ## :dart: Who Is It For? 
 
@@ -96,7 +108,7 @@ The use of SumBot or a similar chatbot employing Artificial Intelligence to summ
 12. :gear: **Artificial Intelligence:** SumBot utilizes the OpenAI API, powered by the GPT model, one of the most advanced AI models for understanding and generating text.
 
 In summary, the use of a chatbot like SumBot can improve efficiency, save time, and facilitate access to important information, making it valuable in a variety of scenarios, from the business environment to education and beyond.
-<br>
+<br><br>
  
 ## 🎥 Demo Videos:
 
@@ -140,12 +152,13 @@ https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/e20d55
 
 https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/cadd1871-8933-4bd5-8768-988827fb01dc 
 
- <br>
+ <br><br>
    
 ## :star: Acknowledgements
 
 We would like to thank all the contributors who helped make this project possible. Your hard work and dedication are greatly appreciated and we couldn't have done it without you.
 
+<br><br>
 
 ## :octocat: Our Team in the IBS AI Competition - 2023  
 
@@ -160,7 +173,8 @@ We would like to thank all the contributors who helped make this project possibl
 - 🇲🇦 [Harmali Kawtar](https://github.com/kawtar1234)
   
 - 🇧🇷 [Jonathan Walendolf](https://github.com/jonathanwdolf)
-  
+
+ <br><br>
 
 ## 📚 References:
 
