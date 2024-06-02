@@ -130,13 +130,13 @@ https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/59ce83
 
  <br>
 
-5- :clapper: **Demo 5:** Extra tools that can be integrated with OpenAI on Zapier
+5- :clapper: **Extra Demo 5:** Extra tools that can be integrated with OpenAI on Zapier
 
 https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/e20d5547-7461-4901-9b40-bb0142fa2b39
 
  <br>
 
-6- :clapper: **Demo 6:** 
+6- :clapper: **Extra Demo 6:** Building the integration of Slack with ChatGpT and return a summary response in the Slack thread every time someone uses a reaction with the bowtie emoji
 
 https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/cadd1871-8933-4bd5-8768-988827fb01dc 
 
