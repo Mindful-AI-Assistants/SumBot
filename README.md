@@ -1,14 +1,9 @@
 <p align="center"> <img src="https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/c6f11e1c-f638-4208-9ace-ea77653eab6e"/>
-
 <!--  https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/6c546112-3803-4fdf-ad50-fb9ebe506826 -->
- 
-# <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="40"> SumBot FreeCode
-
 <!-- :bowtie: <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="48"> -->
-
-<br>
-
-## <p align="center"> 🤖 **AI-Powered ChatBot with GPT-3.5 Turbo integration.**
+ 
+### <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="40"> SumBot FreeCode
+#### <p align="center"> 🤖 **AI-Powered ChatBot with GPT-3.5 Turbo integration.**
 
 <br> 
 
