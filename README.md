@@ -32,16 +32,12 @@ The repository contains all the necessary documentation, including HTML and Ruby
 
 ## 💭 Food for thought
 
- <br> 
-
 Can you imagine having an assistant that helps you deal with information overload? Think about how this tool could make your life easier.
 
 SumBot is a tool that was created precisely for this purpose through the automation of conversations in ChatGPT when a new reaction with the bowtie emoji is added in Slack, ChatGPT itself will send a summarized response of the message within the Slack channel.
 
 ## :bulb: Why SumBot? 
 
- <br> 
- 
 In today's world of information overload, we are often bombarded with lengthy texts and messages. What if there was a solution to this problem that didn't require programming skills? 
 We introduce SumBot, a tool that automates the task of summarizing long messages for you. And the best part is, you don't need to be a programmer to use it. This project utilizes three essential tools: the OpenAI API, Slack (where our bot resides), and Zapier for integration.
 
@@ -57,7 +53,7 @@ We introduce SumBot, a tool that automates the task of summarizing long messages
 
  <p align="center"> <img width="525" alt="_zapier" src="https://github.com/MindfulAI-Copilots-Bots/SumBot-FreeCode/assets/113218619/3acd8045-5242-4576-90d8-255e11b9c04f">
 
- <br><br>
+ <br>
 
  ## :dart: Who Is It For? 
 
@@ -110,7 +106,8 @@ The use of SumBot or a similar chatbot employing Artificial Intelligence to summ
 12. :gear: **Artificial Intelligence:** SumBot utilizes the OpenAI API, powered by the GPT model, one of the most advanced AI models for understanding and generating text.
 
 In summary, the use of a chatbot like SumBot can improve efficiency, save time, and facilitate access to important information, making it valuable in a variety of scenarios, from the business environment to education and beyond.
-<br><br>
+
+<br>
  
 ## 🎥 Demo Videos:
 
