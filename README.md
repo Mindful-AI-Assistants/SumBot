@@ -125,6 +125,7 @@ https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/d8fbcf
 
 https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/59ce8336-9913-4272-9b1d-d4c02e276c69
 
+ <br><br> 
 
 ## 🎥 Extra Demo Video:
 
