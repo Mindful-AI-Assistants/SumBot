@@ -2,7 +2,7 @@
 <!--  https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/6c546112-3803-4fdf-ad50-fb9ebe506826 -->
 <!-- :bowtie: <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="48"> -->
 
-<br>
+<br><br>
  
 ## <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="40"> SumBot FreeCode
 #### <p align="center"> 🤖 **AI-Powered ChatBot with GPT-3.5 Turbo integration.**
