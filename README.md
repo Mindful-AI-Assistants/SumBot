@@ -27,7 +27,7 @@ The repository contains all the necessary documentation, including HTML and Ruby
 
 <br>
 
-#### **<p align="center"> One People. One World. One Spirit... [We Are All One!]() </p>**
+#### **<p align="center"> One People. [One World. One Spirit]... We Are All One!() </p>**
 
 ### <p align="center"> [*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)
 
