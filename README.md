@@ -14,13 +14,6 @@ https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/20120a
 
 
 
-
-
-
-<p align="center"> <img src="https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/c7294830-1c00-47a9-bc60-cc8de10270b7"/> -->
-
-
-
 <!--  https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/6c546112-3803-4fdf-ad50-fb9ebe506826 -->
 <!-- :bowtie: <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="48"> -->
 
