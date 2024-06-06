@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/62592028-5717-413e-8888-2e7748254919"/>
 
-<p align="center"> <img src="https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/f98254e9-f9c9-4320-a4db-9a39b6f0d77a
+<p align="center"> <img src="https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/f98254e9-f9c9-4320-a4db-9a39b6f0d77a />
 
 <!--  https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/6c546112-3803-4fdf-ad50-fb9ebe506826 -->
 <!-- :bowtie: <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="48"> -->
