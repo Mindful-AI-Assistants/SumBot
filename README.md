@@ -198,9 +198,9 @@ We would like to thank all the contributors who helped make this project possibl
 6. [Certicate 6](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/4dce63e1-2f5d-49bb-a796-b5b8d38bd50f)
 7. [Certicate 7](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/71a48681-cb6e-46bf-9f39-193e7bf77ecb)
 )
-8. [Certicate 8]
-7. [Certicate 9]
-8. [Certicate 10]
+8. [Certicate 8]()
+7. [Certicate 9]()
+8. [Certicate 10]()
 
 #
 
