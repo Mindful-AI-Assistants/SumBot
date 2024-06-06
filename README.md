@@ -1,4 +1,7 @@
 
+<p align="center"> <img src="https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/ass
+
+
 https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/6acec001-8ee3-488d-83a0-897b3b41b1da
 
 
@@ -9,7 +12,6 @@ https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/6acec0
 
 
 <p align="center"> <img src="https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/c7294830-1c00-47a9-bc60-cc8de10270b7"/> -->
-
 
 
 
