@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/ass
+<p align="center"> <img src=""/>
 
 
 https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/20120ac0-57fe-44ad-8f59-9ea0ee68bf4f
