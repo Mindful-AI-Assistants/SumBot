@@ -8,9 +8,6 @@ https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/20120a
 
 
 
-https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/6acec001-8ee3-488d-83a0-897b3b41b1da
-
-
 
 
 ![Header_FinalArt](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/4f39b668-7d31-456e-8235-59ca7eb9c71b)
