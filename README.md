@@ -1,11 +1,25 @@
 
+
 https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/4216fdca-bf35-4e3b-bc6c-867ca540d141
 
-<p align="center"> <img src="https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/f98254e9-f9c9-4320-a4db-9a39b6f0d77a" />
+<p align="center"> <img src=""/>
 
-<!--
+![Header_FinalArt4](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/da0a3f38-dec6-4d4a-badf-c86a3dbd33a1)
+
+https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/20120ac0-57fe-44ad-8f59-9ea0ee68bf4f
+
+![Header_FinalArt4](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/da0a3f38-dec6-4d4a-badf-c86a3dbd33a1)
+
+
+
+
+
+
+![Header_FinalArt](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/4f39b668-7d31-456e-8235-59ca7eb9c71b)
+
+
+
 <p align="center"> <img src="https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/c7294830-1c00-47a9-bc60-cc8de10270b7"/> -->
-
 
 
 
