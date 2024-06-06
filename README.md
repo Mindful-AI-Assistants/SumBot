@@ -189,12 +189,10 @@ We would like to thank all the contributors who helped make this project possibl
 ## 🪪 Fabiana 🚀 Campanari MastrClass IBS's Certificates:
 
 1. [Certicate 1](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/f08edd8f-5cdd-460a-a591-1d6f29c8c35c)
-2. [Certicate 2](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/9d9f391b-d75f-4776-ba92-b9eaea9b2186))
+2. [Certicate 2](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/9d9f391b-d75f-4776-ba92-b9eaea9b2186)
 3. [Certicate 3](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/97433c52-c758-4e3f-b077-402a3265c10c)
 4. [Certicate 4](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/5ac8f8d2-6676-4f00-a75b-0aa3e172a4fb)
-)
-
-
+5. [Certicate 5]()
 
 #
 
