@@ -3,7 +3,8 @@
 
 ![Header_FinalArt](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/4f39b668-7d31-456e-8235-59ca7eb9c71b)
 
-<!--
+
+
 <p align="center"> <img src="https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/c7294830-1c00-47a9-bc60-cc8de10270b7"/> -->
 
 
