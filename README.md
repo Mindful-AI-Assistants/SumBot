@@ -1,6 +1,5 @@
 
 
-<p align="center"> <img src="https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/f98254e9-f9c9-4320-a4db-9a39b6f0d77a" />
 
 ![Header_FinalArt](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/4f39b668-7d31-456e-8235-59ca7eb9c71b)
 
