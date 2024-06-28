@@ -11,8 +11,14 @@ jobs:
       pull-requests: write
 
     steps:
-    - name: Checkout code
+    - name: Checkout código
       uses: actions/checkout@v2
 
     - name: Another step
       run: echo "This is another step in your workflow"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+
+
