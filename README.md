@@ -198,7 +198,7 @@ We would like to thank all the contributors who helped make this project possibl
 6. [Certicate 6](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/4dce63e1-2f5d-49bb-a796-b5b8d38bd50f)
 7. [Certicate 7](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/71a48681-cb6e-46bf-9f39-193e7bf77ecb)
 8. [Certicate 8](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/c39a97ba-7708-4189-8d06-52a6e0c691bd)
-7. [Certicate 9]()
+7. [Certicate 9](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/0dfe75a8-cbc5-4ca5-a666-2cc95e312a1d)
 8. [Certicate 10]()
 
 
