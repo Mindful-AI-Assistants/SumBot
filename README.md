@@ -14,17 +14,6 @@
 <br>
 
 
- <br> 
-
-## 🤝 Contribution
-
- <br> 
-
-The repository contains all the necessary documentation, including HTML and Ruby files, and the six demos that showcase the team's capabilities. The demos are available for anyone to access and can be used to develop the final script for the video. **MindfulAI AI Assistats Organization** encourages everyone to participate in the project and contribute to its success.
-
-<br>
-
-#### <p align="center"> **One People. One World. One Spirit... [We Are All One!]() </p>**
 
 <br>
 
@@ -32,26 +21,7 @@ The repository contains all the necessary documentation, including HTML and Ruby
 
 <br>
 
-## 💭 Food for thought
-
-Can you imagine having an assistant that helps you deal with information overload? Think about how this tool could make your life easier.
-
-SumBot is a tool that was created precisely for this purpose through the automation of conversations in ChatGPT when a new reaction with the bowtie emoji is added in Slack, ChatGPT itself will send a summarized response of the message within the Slack channel.
-
-## :bulb: Why SumBot? 
-
-In today's world of information overload, we are often bombarded with lengthy texts and messages. What if there was a solution to this problem that didn't require programming skills? 
-We introduce SumBot, a tool that automates the task of summarizing long messages for you. And the best part is, you don't need to be a programmer to use it. This project utilizes three essential tools: the OpenAI API, Slack (where our bot resides), and Zapier for integration.
-
-<br>
-
-## ✍️ How It Works 
-
-1. **OpenAI API**: This is the brain of our bot. We will use the OpenAI API to harness the power of the GPT model, an artificial intelligence that excels at understanding and generating text.
-
-2. **Slack**: This is the environment where our bot will reside. Slack is a communication platform that enables the creation and use of bots.
-
-3. **Zapier**: This is the tool that will integrate Slack with the OpenAI API. Zapier is an automation tool that allows you to create workflows between different platforms.
+=
 
  <p align="center"> <img width="525" alt="_zapier" src="https://github.com/MindfulAI-Copilots-Bots/SumBot-FreeCode/assets/113218619/3acd8045-5242-4576-90d8-255e11b9c04f">
 
