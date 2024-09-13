@@ -3,6 +3,8 @@ title: SumBot-FreeCode repository
 message: If you really want to cite this repository, here's how you should cite it.
 type: software
 authors:
-  - given-names: MindfulAI-Copilots-Bots
-repository-code: https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP
+  - given-names: Mindful-AI-Assistants
+/
+SumBot-FreeCode
+repository-code:https://github.com/Mindful-AI-Assistants/SumBot-FreeCode
 license: MIT License
