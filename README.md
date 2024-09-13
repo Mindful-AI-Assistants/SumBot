@@ -25,25 +25,6 @@
 
  <p align="center"> <img width="525" alt="_zapier" src="https://github.com/MindfulAI-Copilots-Bots/SumBot-FreeCode/assets/113218619/3acd8045-5242-4576-90d8-255e11b9c04f">
 
- <br>
-
- ## :dart: Who Is It For? 
-
-1. :briefcase: **Business Professionals:** Managers and executives who need to keep up with a large volume of business communications and reports. SumBot can help them efficiently extract key information from extensive documents.
-
-2. :mortar_board: **Students:** Students who want to summarize lengthy texts, academic articles, or study documents to save time when reviewing content.
-
-3. :telephone_receiver: **Customer Support Teams:** Support agents who need to quickly understand customer concerns in lengthy conversations. SumBot can help summarize customer interactions.
-
-4. :mag: **Curious Individuals:** Anyone who wants to stay updated on the latest news or topics of interest but doesn't have time to read extensive articles.
-
-5. :microscope: **Researchers:** Research professionals who want to summarize scientific papers or reports to identify relevant information for their research.
-
-6. :mega: **Marketing Professionals:** Marketers who want to monitor what is being said about their brand or products on social media and online forums.
-
-7. :school: **Educators:** Teachers who want to simplify lengthy texts to make them more accessible to students.
-
-8. :pencil2: **Writers and Authors:** Writers who want to extract key information from research and reference documents.
 
 These are just a few examples; SumBot has the potential to be useful in many other scenarios!
 
