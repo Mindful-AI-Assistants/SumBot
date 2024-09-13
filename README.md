@@ -25,7 +25,6 @@
 
  <p align="center"> <img width="525" alt="_zapier" src="https://github.com/MindfulAI-Copilots-Bots/SumBot-FreeCode/assets/113218619/3acd8045-5242-4576-90d8-255e11b9c04f">
 
-
 These are just a few examples; SumBot has the potential to be useful in many other scenarios!
 
 <br>
@@ -58,7 +57,8 @@ The use of SumBot or a similar chatbot employing Artificial Intelligence to summ
 
 12. :gear: **Artificial Intelligence:** SumBot utilizes the OpenAI API, powered by the GPT model, one of the most advanced AI models for understanding and generating text.
 
-In summary, the use of a chatbot like SumBot can improve efficiency, save time, and facilitate access to important information, making it valuable in a variety of scenarios, from the business environment to education and beyond.
+ <br>
+
 
 <br>
  
