@@ -1,5 +1,4 @@
 <!-- Start Header -->
-<p align="center"> <img src="https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/da0a3f38-dec6-4d4a-badf-c86a3dbd33a1"/>
 
 
 <!--  https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/6c546112-3803-4fdf-ad50-fb9ebe506826 -->
