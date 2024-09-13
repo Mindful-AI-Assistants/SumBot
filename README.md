@@ -85,15 +85,7 @@ We would like to thank all the contributors who helped make this project possibl
 
 - 🇧🇷 [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
-- 🇲🇦 [Hajar Zerouani](https://github.com/zerouani)
 
-- 🇵🇭 [Hannah Dela Cruz ](https://github.com/heinah)
-
-- 🇲🇦 [Harmali Kawtar](https://github.com/kawtar1234)
-  
-- 🇧🇷 [Jonathan Walendolf](https://github.com/jonathanwdolf)
-
- <br>
 
 ## 📚 References:
 
@@ -103,6 +95,9 @@ We would like to thank all the contributors who helped make this project possibl
 4. [Monica AI](https://monica.im)
 
  <br>   
+
+
+ <!--
  
 ## 🪪 Fabiana 🚀 Campanari Master Class IBS's Certificates:
 
@@ -116,6 +111,7 @@ We would like to thank all the contributors who helped make this project possibl
 8. [Certicate 8](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/c39a97ba-7708-4189-8d06-52a6e0c691bd)
 7. [Certicate 9](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/0dfe75a8-cbc5-4ca5-a666-2cc95e312a1d)
 8. [Certicate 10](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/6cbcdbb2-cad9-4247-8927-118eb3d91a0c)
+-->
 
 #
 
