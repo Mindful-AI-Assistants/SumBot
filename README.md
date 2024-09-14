@@ -64,7 +64,15 @@ Welcome to **SumBot FreeCode**, an AI-powered chatbot that transforms long texts
 
 - **Automated Summarization**: Summarizes long texts using GPT-3.5 Turbo.
 - **Slack Integration**: Seamlessly automate tasks within Slack.
-- **Custom Triggers**: Summarization triggered by emoji reactions.
+- **Custom Triggers**: Summarization triggered by bowtie :bowtie: emoji reactions.
+- **Zapier Workflow**: Connect with various tools for smooth automation.
+- **No Programming Required**: Easy to use for everyone, regardless of technical expertise.
+
+
+## 🤔 Purpose
+
+The purpose of **SumBot FreeCode** is simple: **manage information overload**. By summarizing long texts automatically, it saves time and increases productivity across various platforms, from business reports to academic papers.
+
 
  
 
