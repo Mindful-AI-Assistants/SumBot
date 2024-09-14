@@ -147,6 +147,10 @@ export OPENAI_API_KEY='your_openai_api_key_here'
 export SLACK_BOT_TOKEN='your_slack_bot_token_here'
 ```
 
+5. Run the chatbot:
+   ```bash
+   python run.py
+   ```
 
 
 
