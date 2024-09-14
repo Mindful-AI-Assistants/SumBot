@@ -1,0 +1,4 @@
+openai==0.27.0
+slack_sdk==3.18.0
+requests==2.26.0
+python-dotenv==0.19.2  # Optional for environment variable management
