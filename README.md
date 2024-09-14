@@ -141,6 +141,11 @@ To set up **SumBot FreeCode**, follow these steps:
    pip install -r requirements.txt
    ```
 
+4. Set up environment variables for the OpenAI API and Slack integration.
+```bash
+export OPENAI_API_KEY='your_openai_api_key_here'
+export SLACK_BOT_TOKEN='your_slack_bot_token_here'
+```
 
 
 
