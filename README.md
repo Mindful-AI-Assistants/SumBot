@@ -122,7 +122,7 @@ In a world overflowing with information, **SumBot** helps you cut through the no
 
 ## ⚙️ Installation
 
-Although SumBot FreeCode is designed to be a real-use solution without the need for direct coding, you may include a `requirements.txt` file and a run.py script if you wish to use Python for managing integration or running automations in your project.
+Although SumBot FreeCode is designed to be a real-use solution without the need for direct coding, you may include a `requirements.txt` file and a python run.py script if you wish to use Python for managing integration or running automations in your project.
 
 To set up **SumBot FreeCode**, follow these steps:
 
