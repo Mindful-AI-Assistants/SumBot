@@ -73,9 +73,16 @@ Welcome to **SumBot FreeCode**, an AI-powered chatbot that transforms long texts
 
 The purpose of **SumBot FreeCode** is simple: **manage information overload**. By summarizing long texts automatically, it saves time and increases productivity across various platforms, from business reports to academic papers.
 
+
 ## 💭 Vision
 
 Imagine having a personal assistant that condenses overwhelming amounts of information into manageable summaries. That’s the vision behind **SumBot**—to simplify workflows by summarizing messages in Slack with a single emoji, such as the :bowtie: bowtie, making communication more streamlined.
+
+
+## :bulb: Why SumBot?
+
+In a world overflowing with information, **SumBot** helps you cut through the noise by efficiently summarizing lengthy texts. By leveraging **OpenAI**, **Slack**, and **Zapier**, it provides a simple yet powerful solution to improve productivity and communication without requiring any programming knowledge.
+
 
 
 
