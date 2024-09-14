@@ -1,10 +1,5 @@
 <!-- Start Header -->
 
-<!--
-### <p align="center"> [*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)
--->
-
-<!--  https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/6c546112-3803-4fdf-ad50-fb9ebe506826 -->
 <!-- :bowtie: <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="48"> -->
 
 <!-- End Header -->
@@ -73,46 +68,6 @@ https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/cadd18
 
  <br>
    
-## :star: Acknowledgements
 
-We would like to thank all the contributors who helped make this project possible. Your hard work and dedication are greatly appreciated and we couldn't have done it without you.
-
-<br>
-
-## :octocat: Our Team in the IBS AI Competition - 2023  
-
-<!-- [GitHub username](https://github.com/username) - Real name (Email address) -->
-
-- 🇧🇷 [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
-
-
-
-## 📚 References:
-
-1. [OpenAI](https://platform.openai.com/)
-2. [Slack](https://slack.com)
-3. [Zapier](https://zapier.com)
-4. [Monica AI](https://monica.im)
-
- <br>   
-
-
- <!--
- 
-## 🪪 Fabiana 🚀 Campanari Master Class IBS's Certificates:
-
-1. [Certicate 1](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/f08edd8f-5cdd-460a-a591-1d6f29c8c35c)
-2. [Certicate 2](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/9d9f391b-d75f-4776-ba92-b9eaea9b2186)
-3. [Certicate 3](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/97433c52-c758-4e3f-b077-402a3265c10c)
-4. [Certicate 4](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/5ac8f8d2-6676-4f00-a75b-0aa3e172a4fb)
-5. [Certicate 5](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/206cc09e-3c78-4fb8-b3bc-01ea50077c6f)
-6. [Certicate 6](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/4dce63e1-2f5d-49bb-a796-b5b8d38bd50f)
-7. [Certicate 7](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/71a48681-cb6e-46bf-9f39-193e7bf77ecb)
-8. [Certicate 8](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/c39a97ba-7708-4189-8d06-52a6e0c691bd)
-7. [Certicate 9](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/0dfe75a8-cbc5-4ca5-a666-2cc95e312a1d)
-8. [Certicate 10](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/6cbcdbb2-cad9-4247-8927-118eb3d91a0c)
--->
-
-#
 
 ###### <p align="center">[Copyright 2024 Mindful AI Assistants. Code released under the  MIT license.](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/blob/ed50e73edbc89242bfb21dbf16aef236e1ec9d1f/LICENSE)
