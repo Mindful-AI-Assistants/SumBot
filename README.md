@@ -158,6 +158,9 @@ export SLACK_BOT_TOKEN='your_slack_bot_token_here'
 To use **SumBot FreeCode**:
 
 1. Connect the bot to your Slack workspace.
+2. React to a message in Slack with the bowtie emoji :bowtie:.
+3. **SumBot** will automatically summarize the message in the same thread.
+
 
 
 
