@@ -148,9 +148,9 @@ export SLACK_BOT_TOKEN='your_slack_bot_token_here'
 ```
 
 5. Run the chatbot:
-   ```bash
-   python run.py
-   ```
+```bash
+python run.py
+```
 
 
 ## 🛠️ Usage
