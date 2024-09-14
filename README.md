@@ -13,19 +13,21 @@ https://github.com/user-attachments/assets/5d926e06-3b75-4d9e-87a1-3830a490f5d4
 ## <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="40"> SumBot FreeCode
 #### <p align="center"> 🤖🦾 **AI-Powered ChatBot with GPT-3.5 Turbo integration.**
 
-<br>
-
-SumBot FreeCode is an AI chatbot powered by GPT-3.5 Turbo, created by **[Fabiana Campanari](https://github.com/FabianaCampanari)** for the **[Ready Tensor AI Hackathon 2024](https://app.readytensor.ai/)**. It enhances communication by summarizing lengthy messages into concise information, thereby improving productivity across different contexts.
-
-<br>
-
-####  <p align="center"> [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml)  <p align="center"> [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml) 
+####  <p align="center"> [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml) [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml) 
  
 
 ####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
 
 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+
+
+<br>
+
+SumBot FreeCode is an AI chatbot powered by GPT-3.5 Turbo, created by **[Fabiana Campanari](https://github.com/FabianaCampanari)** for the **[Ready Tensor AI Hackathon 2024](https://app.readytensor.ai/)**. It enhances communication by summarizing lengthy messages into concise information, thereby improving productivity across different contexts.
+
+<br>
+
 
 <br>
 
