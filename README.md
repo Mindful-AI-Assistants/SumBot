@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/5d926e06-3b75-4d9e-87a1-3830a490f5d4
 
 <br>
 
-<!-- Tags -->
+<!-- Gb Badges -->
 ####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
@@ -26,13 +26,7 @@ https://github.com/user-attachments/assets/5d926e06-3b75-4d9e-87a1-3830a490f5d4
 
 SumBot FreeCode is an AI chatbot powered by GPT-3.5 Turbo, created by **[Fabiana Campanari](https://github.com/FabianaCampanari)** for the **[Ready Tensor AI Hackathon 2024](https://app.readytensor.ai/)**. It enhances communication by summarizing lengthy messages into concise information, thereby improving productivity across different contexts.
 
-<br>
-
-
-<br>
-
-
-**SumBot FreeCode** leverages the power of **GPT-3.5 Turbo** to automatically summarize long messages, helping users to stay focused and manage information overload. Developed by **Fabiana Campanari** for the **Real Case AI Project Showcase Competition 2024**, in collaboration with **Ready Tensor** during the Hackathon, this chatbot is a prime example of AI applied to automated interactions, providing unique and efficient experiences.
+**SumBot FreeCode** leverages the power of **GPT-3.5 Turbo** to automatically summarize long messages, helping users to stay focused and manage information overload. Developed by [Fabiana Campanari](https://github.com/FabianaCampanari)  for the **AI Project Showcase Hackaton 2024**, in collaboration with [Ready Tensor AI]([https://readytensor.ai](https://app.readytensor.ai/) during the Hackathon, this chatbot is a prime example of AI applied to automated interactions, providing unique and efficient experiences.
 
 For more information and access to the project, visit:
 
