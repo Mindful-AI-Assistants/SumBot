@@ -134,7 +134,7 @@ To set up **SumBot FreeCode**, follow these steps:
 2. Navigate into the project directory:
    ```bash
    cd SumBot-ReadyTensorAI-Hackaton
-
+   ```
 
 
 
