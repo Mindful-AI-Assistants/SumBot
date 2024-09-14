@@ -54,7 +54,8 @@ For more information and access to the project, visit:
 - [License](#-license)
 - [Contact](#-contact)
 - [Acknowledgements](#-acknowledgements)
-- 
+- [License](#license)
+ 
 
 ## 📝 Introduction
 
