@@ -153,6 +153,11 @@ export SLACK_BOT_TOKEN='your_slack_bot_token_here'
    ```
 
 
+## 🛠️ Usage
+
+To use **SumBot FreeCode**:
+
+1. Connect the bot to your Slack workspace.
 
 
 
