@@ -30,6 +30,14 @@ SumBot FreeCode is an AI chatbot powered by GPT-3.5 Turbo, created by **[Fabiana
 <br>
 
 
+**SumBot FreeCode** leverages the power of **GPT-3.5 Turbo** to automatically summarize long messages, helping users to stay focused and manage information overload. Developed by **Fabiana Campanari** for the **Real Case AI Project Showcase Competition 2024**, in collaboration with **Ready Tensor** during the Hackathon, this chatbot is a prime example of AI applied to automated interactions, providing unique and efficient experiences.
+
+For more information and access to the project, visit:
+
+- The GitHub repository: [SumBot FreeCode](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode).  
+
+- Learn more about Ready Tensor's AI initiatives: [Ready Tensor](https://readytensor.com).
+ 
 
 
 
