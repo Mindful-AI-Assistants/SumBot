@@ -54,6 +54,11 @@ For more information and access to the project, visit:
 - [License](#-license)
 - [Contact](#-contact)
 - [Acknowledgements](#-acknowledgements)
+- 
+
+## 📝 Introduction
+
+Welcome to **SumBot FreeCode**, an AI-powered chatbot that transforms long texts into concise summaries, making communication more efficient. Developed with **GPT-3.5 Turbo** and integrated with platforms like **Slack**, it’s the perfect tool for managing information overload, whether in business settings or academic environments.
  
 
 
