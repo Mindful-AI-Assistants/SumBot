@@ -26,10 +26,10 @@ https://github.com/user-attachments/assets/5d926e06-3b75-4d9e-87a1-3830a490f5d4
 
 <br>
 
-=
 
 
- 
+
+<!-- 
 ## 🎥 Demo Videos:
 
  <br> 
@@ -74,6 +74,6 @@ https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/cadd18
 
  <br>
    
-
+-->
 
 ###### <p align="center">[Copyright 2024 Mindful AI Assistants. Code released under the  MIT license.](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/blob/ed50e73edbc89242bfb21dbf16aef236e1ec9d1f/LICENSE)
