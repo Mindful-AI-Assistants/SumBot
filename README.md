@@ -161,6 +161,12 @@ To use **SumBot FreeCode**:
 2. React to a message in Slack with the bowtie emoji :bowtie:.
 3. **SumBot** will automatically summarize the message in the same thread.
 
+Example:  
+- Message: *"This is a very long message..."*  
+- React with :bowtie:  
+- Bot Response: *"Summary: The message talks about..."*
+
+
 
 
 
