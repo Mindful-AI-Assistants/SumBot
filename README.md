@@ -126,9 +126,10 @@ Although SumBot FreeCode is designed to be a real-use solution without the need 
 
 To set up **SumBot FreeCode**, follow these steps:
 
+
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mindful-AI-Assistants/SumBot-FreeCode.git
+   git clone https://github.com/Mindful-AI-Assistants/SumBot-ReadyTensorAI-Hackaton.git
    ```
 
 
