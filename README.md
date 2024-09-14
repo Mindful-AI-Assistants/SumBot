@@ -13,6 +13,8 @@ https://github.com/user-attachments/assets/5d926e06-3b75-4d9e-87a1-3830a490f5d4
 ## <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="40"> SumBot FreeCode
 #### <p align="center"> 🤖🦾 **AI-Powered ChatBot with GPT-3.5 Turbo integration.**
 
+**SumBot FreeCode** is an AI-powered chatbot integrated with **GPT-3.5 Turbo**, developed as a real-use project by **Fabiana Campanari** for the **Ready Tensor AI Hackathon 2024**. This chatbot simplifies communication by summarizing long messages into concise information, streamlining productivity in various settings.
+
 <br>
 
 
