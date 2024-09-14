@@ -84,6 +84,14 @@ Imagine having a personal assistant that condenses overwhelming amounts of infor
 In a world overflowing with information, **SumBot** helps you cut through the noise by efficiently summarizing lengthy texts. By leveraging **OpenAI**, **Slack**, and **Zapier**, it provides a simple yet powerful solution to improve productivity and communication without requiring any programming knowledge.
 
 
+## ✍️ How It Works
+
+1. **OpenAI API**: Powers the summarization using **GPT-3.5 Turbo**, an advanced natural language model.
+2. **Slack**: Provides the platform for user interaction, where **SumBot** summarizes messages when triggered.
+3. **Zapier**: Automates the workflow between Slack and OpenAI, enabling message summaries when specific emojis are used.
+
+
+
 
 
  
