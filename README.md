@@ -111,6 +111,18 @@ In a world overflowing with information, **SumBot** helps you cut through the no
 - **Writers**: Extracts key points from research materials.
 
 
+## 👌 Key Benefits
+
+- **Time-Saving**: Quickly condenses long texts, so you can focus on what matters.
+- **Enhanced Productivity**: Efficiently manage and process large amounts of information.
+- **Decision Support**: Provides concise summaries to aid in quick decision-making.
+- **Customizable Summaries**: Tailor the length and detail of summaries based on your needs.
+- **AI-Powered Precision**: Utilizes **GPT-3.5 Turbo** for accurate and relevant summaries.
+
+
+
+
+
 
 
 
