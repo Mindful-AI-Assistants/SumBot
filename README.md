@@ -33,6 +33,27 @@ For more information and access to the project, visit:
 - The GitHub repository: [SumBot FreeCode](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode).  
 
 - Learn more about Ready Tensor's AI platform: [Ready Tensor AI](https://app.readytensor.ai/).
+
+<br>
+
+ ## 📑 Table of Contents
+
+- [Introduction](#-introduction)
+- [Features](#-features)
+- [Purpose](#-purpose)
+- [Vision](#-vision)
+- [Why SumBot?](#-why-sumbot)
+- [How It Works](#-how-it-works)
+- [Who Is It For?](#-who-is-it-for)
+- [Key Benefits](#-key-benefits)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Demo Videos](#-demo-videos)
+- [Extra AI Tools](#-extra-ai-tools)
+- [Contribute](#-contribute)
+- [License](#-license)
+- [Contact](#-contact)
+- [Acknowledgements](#-acknowledgements)
  
 
 
