@@ -136,6 +136,13 @@ To set up **SumBot FreeCode**, follow these steps:
    cd SumBot-ReadyTensorAI-Hackaton
    ```
 
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+
+
 
 
 
