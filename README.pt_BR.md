@@ -4,25 +4,21 @@
 <br><br>
  
 ## <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="40"> SumBot FreeCode
-#### <p align="center"> 🤖🦾 **ChatBot com integração GPT-3.5 Turbo.**
+#### <p align="center"> 🤖🦾 **AI-Powered ChatBot with GPT-3.5 Turbo integration.**
 
 <br><br>
-
-<!-- Início do Cabeçalho -->
+<!-- Start Header -->
 https://github.com/user-attachments/assets/5b1847c7-c69c-4e46-9e5d-4058138c2592](https://github.com/user-attachments/assets/8da9894a-48e4-425c-9174-272297dc8897
 
 <br><br>
 
-**SumBot FreeCode** é um chatbot alimentado por IA, integrado ao **GPT-3.5 Turbo**, projetado para resumir mensagens longas e entregar informações concisas. Este projeto foi desenvolvido por [Fabiana Campanari]() para a [AI Project Showcase Competition 2024]().
+<!-- Gb Badges -->
+####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
-<br>
 
-<!-- Insígnias do GitHub -->
-####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
-
-#### <p align="center"> [![Patrocinador Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
-
+<!--
 ####  <p align="center"> [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml) [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml) 
+-->
 
 
 <br>
