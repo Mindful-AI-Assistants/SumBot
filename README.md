@@ -239,6 +239,11 @@ Contributions are welcome! Here's how to contribute:
    git push origin feature/YourFeature
    ```
 
+5. Open a Pull Request. After pushing, use the command below to open the Pull Request URL directly in the browser if you're using the GitHub CLI:
+   ```bash
+   gh pr create --fil
+   ```
+
 
 
 
