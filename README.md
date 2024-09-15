@@ -222,6 +222,15 @@ https://github.com/user-attachments/assets/d932be41-2ebb-4f21-8687-3ced710ee10b
 Contributions are welcome! Here's how to contribute:
 
 
+1. Fork the repository.
+
+2. Create a new branch:
+   ```bash
+   git checkout -b feature/YourFeature
+   ```
+
+
+
 
 
 
