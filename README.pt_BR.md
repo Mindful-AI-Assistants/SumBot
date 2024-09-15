@@ -202,17 +202,12 @@ https://github.com/user-attachments/assets/d932be41-2ebb-4f21-8687-3ced710ee10b
 
 ## 📺 Assista no YouTube
 
-- [Vídeo de Demonstração 1:](https://youtu.be/spvV1CVlvH4)
-
-- [Vídeo de Demonstração 2:](https://youtu.be/bN-s3DJ1JPs)
-
-- [Vídeo de Demonstração 3:](https://youtu.be/9wjVa3Ka5X8)
-
-- [Vídeo de Demonstração 4:](https://youtu.be/xrOtjU2fZ1U)
-
-- [Vídeo de Demonstração 5:](https://youtu.be/G8sWtYGGwx0)
-
-- [Vídeo de Demonstração 6:](https://youtu.be/Sr0a5Q1-cs0)
+- [Vídeo de Demonstração 1](https://youtu.be/spvV1CVlvH4)
+- [Vídeo de Demonstração 2](https://youtu.be/bN-s3DJ1JPs)
+- [Vídeo de Demonstração 3](https://youtu.be/9wjVa3Ka5X8)
+- [Vídeo de Demonstração 4](https://youtu.be/xrOtjU2fZ1U)
+- [Vídeo de Demonstração 5](https://youtu.be/G8sWtYGGwx0)
+- [Vídeo de Demonstração 6](https://youtu.be/Sr0a5Q1-cs0)
 
 ## 📚 Ferramentas de IA Utilizadas
 
@@ -221,6 +216,7 @@ https://github.com/user-attachments/assets/d932be41-2ebb-4f21-8687-3ced710ee10b
 3. [Zapier](https://zapier.com): Automatiza fluxos de trabalho entre o Slack e a OpenAI.
 4. [Monica AI](https://monica.im): Usado para cenários avançados de teste e interação.
 5. [InVideo](https://studio.invideo.io/): Uma plataforma de criação e edição de vídeos que permite aos usuários criar vídeos de qualidade profissional com facilidade, oferecendo uma ampla gama de modelos, ferramentas de edição e opções de personalização para diversos fins.
+6. [Canva Pro](https://www.canva.com/): Canva Pro is a graphic design platform that offers advanced features to create professional designs easily and intuitively.
 
 ## 🙌 Contribua
 
