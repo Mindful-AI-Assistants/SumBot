@@ -213,6 +213,9 @@ https://github.com/user-attachments/assets/d932be41-2ebb-4f21-8687-3ced710ee10b
 - **OpenAI API**: Provides the AI engine API behind the chatbot using GPT-3.5 Turbo.
 - **Slack**: The messaging platform where **SumBot** is integrated.
 - **Zapier**: Automates workflows between Slack and OpenAI.
+- **Monica AI**: Used for advanced testing and interaction scenarios.
+- **InVideo**: A video creation and editing platform that allows users to create professional-quality videos with ease, offering a wide range of templates, editing tools, and customization options for various purposes.
+
 
 
 
