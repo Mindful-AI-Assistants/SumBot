@@ -169,4 +169,118 @@ Exemplo:
 
 https://github.com/user-attachments/assets/971147f2-5de1-46f7
 
+Aqui está a tradução em português conforme solicitado, mantendo a mesma formatação e estrutura original:
+
+---
+
+2. :clapper: **Demo 2**: Integração do GPT-3.5 Turbo com o Slack
+
+https://github.com/user-attachments/assets/732e5bfe-fe61-4502-acd2-41e7bbaa4337
+
+<br>
+
+3. :clapper: **Demo 3**: Construindo a integração do Slack com o ChatGPT-3.5 Turbo, utilizando a API da OpenAI para retornar uma resposta resumida na thread do Slack sempre que alguém usar a reação com o emoji de gravata borboleta, e utilizando a assistente virtual Monica AI para compor a mensagem.
+
+https://github.com/user-attachments/assets/9b407fcd-0835-492f-a6c6-c48e1f384586
+
+<br>
+
+4. :clapper: **Demo 4**: Testando a funcionalidade do SumBot usando a assistente virtual Monica AI para compor mensagens
+
+https://github.com/user-attachments/assets/5fc934b1-200d-4f5b-a1f7-52f3e792d31b
+
+<br>
+
+## 🎥 Vídeos de Demonstração Extras:
+
+<br>
+
+5- :clapper: **Demo Extra 5:** Ferramentas extras que podem ser integradas com a OpenAI no Zapier
+
+https://github.com/user-attachments/assets/c08948fb-4bbd-4d0c-a514-879a2274568f
+
+<br>
+
+6- :clapper: **Demo Extra 6:** Construindo a integração do Slack com o ChatGPT e retornando uma resposta resumida na thread do Slack toda vez que alguém usar uma reação com o emoji de gravata borboleta
+
+https://github.com/user-attachments/assets/d932be41-2ebb-4f21-8687-3ced710ee10b
+
+## 📺 Assista no YouTube
+
+- [Vídeo de Demonstração 1:](https://youtu.be/spvV1CVlvH4)
+
+- [Vídeo de Demonstração 2:](https://youtu.be/bN-s3DJ1JPs)
+
+- [Vídeo de Demonstração 3:](https://youtu.be/9wjVa3Ka5X8)
+
+- [Vídeo de Demonstração 4:](https://youtu.be/xrOtjU2fZ1U)
+
+- [Vídeo de Demonstração 5:](https://youtu.be/G8sWtYGGwx0)
+
+- [Vídeo de Demonstração 6:](https://youtu.be/Sr0a5Q1-cs0)
+
+## 📚 Ferramentas de IA Utilizadas
+
+1. [OpenAI](https://platform.openai.com/): Fornece a API do motor de IA por trás do chatbot usando GPT-3.5 Turbo.
+2. [Slack](https://slack.com): A plataforma de mensagens onde o **SumBot** está integrado.
+3. [Zapier](https://zapier.com): Automatiza fluxos de trabalho entre o Slack e a OpenAI.
+4. [Monica AI](https://monica.im): Usado para cenários avançados de teste e interação.
+5. [InVideo](https://studio.invideo.io/): Uma plataforma de criação e edição de vídeos que permite aos usuários criar vídeos de qualidade profissional com facilidade, oferecendo uma ampla gama de modelos, ferramentas de edição e opções de personalização para diversos fins.
+
+## 🙌 Contribua
+
+Contribuições são bem-vindas! Veja como contribuir:
+
+1. Faça um fork do repositório.
+   ```bash
+    git clone https://github.com/Mindful-AI-Assistants/SumBot-AI-ProjectCompetition-2024.git
+   ```
+
+2. Crie uma nova branch:
+   ```bash
+   git checkout -b feature/SuaFuncionalidade
+   ```
+
+3. Commit suas alterações:
+   ```bash
+   git commit -m 'Adicionar nova funcionalidade'
+   ```
+
+4. Faça o push para a branch:
+   ```bash
+   git push origin feature/SuaFuncionalidade
+   ```
+
+5. Abra um Pull Request. Após o push, use o comando abaixo para abrir o URL do Pull Request diretamente no navegador se estiver usando o GitHub CLI:
+   ```bash
+   gh pr create --fill
+   ```
+
+## 📜 Código de Conduta
+
+Estamos comprometidos em promover um ambiente aberto e acolhedor. Por favor, reserve um momento para revisar nosso [Código de Conduta](./CODE_OF_CONDUCT.md) para garantir que possamos manter uma comunidade saudável e inclusiva.
+
+Ao participar deste projeto, você concorda em aderir aos padrões descritos no Código de Conduta.
+
+## 💌 Contato
+
+Para dúvidas, sugestões ou colaborações, sinta-se à vontade para entrar em contato:
+
+- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+
+Para mais informações e acesso ao projeto, visite:
+
+- O repositório no GitHub: [SumBot FreeCode](https://github.com/Mindful-AI-Assistants/SumBot-ReadyTensorAI-Hackaton)  
+- Explore as iniciativas de IA da Ready Tensor: [AI Project ShowCase Competition 2024](https://app.readytensor.ai/)
+
+## :star: Agradecimentos
+
+Agradecimentos especiais a [Fabiana Campanari](https://github.com/FabianaCampanari) por desenvolver sozinha o **SumBot FreeCode**. Sua dedicação e expertise foram essenciais para trazer à vida este inovador chatbot alimentado por IA.
+
+#
+
+###### <p align="center">[Copyright 2024 Mindful AI Assistants. Código lançado sob a licença MIT.](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/blob/ed50e73edbc89242bfb21dbf16aef236e1ec9d1f/LICENSE)
+
+
+
 
