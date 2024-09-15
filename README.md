@@ -253,6 +253,11 @@ We are committed to fostering an open and welcoming environment. Please take a m
 By participating in this project, you agree to adhere to the standards outlined in the Code of Conduct.
 
 
+## 💌 Contact
+
+For any questions, suggestions, or collaborations, feel free to reach out:
+
+- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
 
 
