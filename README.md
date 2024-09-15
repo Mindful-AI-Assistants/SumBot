@@ -95,6 +95,8 @@ In a world overflowing with information, **SumBot** helps you cut through the no
 
 ## ✍️ How It Works
 
+
+
 1. **OpenAI API**: Powers the summarization using **GPT-3.5 Turbo**, an advanced natural language model.
 2. **Slack**: Provides the platform for user interaction, where **SumBot** summarizes messages when triggered.
 3. **Zapier**: Automates the workflow between Slack and OpenAI, enabling message summaries when specific emojis are used.
@@ -218,12 +220,17 @@ https://github.com/user-attachments/assets/d932be41-2ebb-4f21-8687-3ced710ee10b
 
 
 ## 📚 Extra AI Tools
+1. [OpenAI](https://platform.openai.com/)
+2. [Slack](https://slack.com)
+3. [Zapier](https://zapier.com)
+4. [Monica AI](https://monica.im)
 
-- **OpenAI API**: Provides the AI engine API behind the chatbot using GPT-3.5 Turbo.
-- **Slack**: The messaging platform where **SumBot** is integrated.
-- **Zapier**: Automates workflows between Slack and OpenAI.
-- **Monica AI**: Used for advanced testing and interaction scenarios.
-- **InVideo**: A video creation and editing platform that allows users to create professional-quality videos with ease, offering a wide range of templates, editing tools, and customization options for various purposes.
+
+1. [OpenAI](https://platform.openai.com/): Provides the AI engine API behind the chatbot using GPT-3.5 Turbo.
+2. [Slack](https://slack.com): The messaging platform where **SumBot** is integrated.
+3. [Zapier](https://zapier.com): Automates workflows between Slack and OpenAI.
+4. [Monica AI](https://monica.im): Used for advanced testing and interaction scenarios.
+5. [InVideo](https://studio.invideo.io/): A video creation and editing platform that allows users to create professional-quality videos with ease, offering a wide range of templates, editing tools, and customization options for various purposes.
 
 
 ## 🙌 Contribute
