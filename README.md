@@ -25,6 +25,9 @@ https://github.com/user-attachments/assets/5b1847c7-c69c-4e46-9e5d-4058138c2592
 
 <br>
 
+
+<!--
+
 **SumBot FreeCode** leverages the power of **GPT-3.5 Turbo** to automatically summarize long messages, helping users to stay focused and manage information overload. Developed by [Fabiana Campanari](https://github.com/FabianaCampanari)  for the **AI Project Showcase Hackaton 2024**, in collaboration with [Ready Tensor AI](https://app.readytensor.ai/) during the Hackathon, this chatbot is a prime example of AI applied to automated interactions, providing unique and efficient experiences.
 
 For more information and access to the project, visit:
@@ -32,6 +35,8 @@ For more information and access to the project, visit:
 - The GitHub repository: [SumBot FreeCode](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode).  
 
 - Learn more about Ready Tensor's AI platform: [Ready Tensor AI](https://app.readytensor.ai/).
+
+-->
 
 <br>
 
