@@ -12,10 +12,6 @@ https://github.com/user-attachments/assets/5b1847c7-c69c-4e46-9e5d-4058138c2592]
 
 <br><br>
 
-**SumBot FreeCode** is an AI-powered chatbot, integrated with **GPT-3.5 Turbo**, designed to summarize long messages and deliver concise information. This project was developed by [Fabiana Campanari]() for the [AI Project Showcase Competition 2024]().
-
-<br>
-
 <!-- Gb Badges -->
 ####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
@@ -23,6 +19,11 @@ https://github.com/user-attachments/assets/5b1847c7-c69c-4e46-9e5d-4058138c2592]
 <!--
 ####  <p align="center"> [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml) [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml) 
 -->
+
+<br>
+
+**SumBot FreeCode** is an AI-powered chatbot, integrated with **GPT-3.5 Turbo**, designed to summarize long messages and deliver concise information. This project was developed by [Fabiana Campanari]() for the [AI Project Showcase Competition 2024]().
+
 
 <br>
 
