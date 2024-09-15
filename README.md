@@ -219,12 +219,7 @@ https://github.com/user-attachments/assets/c08948fb-4bbd-4d0c-a514-879a2274568f
 https://github.com/user-attachments/assets/d932be41-2ebb-4f21-8687-3ced710ee10b
 
 
-## 📚 Extra AI Tools
-1. [OpenAI](https://platform.openai.com/)
-2. [Slack](https://slack.com)
-3. [Zapier](https://zapier.com)
-4. [Monica AI](https://monica.im)
-
+## 📚 AI Tools Utilized
 
 1. [OpenAI](https://platform.openai.com/): Provides the AI engine API behind the chatbot using GPT-3.5 Turbo.
 2. [Slack](https://slack.com): The messaging platform where **SumBot** is integrated.
