@@ -211,7 +211,7 @@ https://github.com/user-attachments/assets/d932be41-2ebb-4f21-8687-3ced710ee10b
 
 [Demo Video 2:](https://youtu.be/bN-s3DJ1JPs)
 
-Demo Video 3: https://youtu.be/9wjVa3Ka5X8
+[Demo Video 3:](https://youtu.be/9wjVa3Ka5X8)
 
 Demo Video 4: https://youtu.be/xrOtjU2fZ1U
 
