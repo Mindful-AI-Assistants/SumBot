@@ -42,6 +42,7 @@ https://github.com/user-attachments/assets/5b1847c7-c69c-4e46-9e5d-4058138c2592
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Demo Videos](#-demo-videos)
+- [Watch on YouTube](#-watch-on-youtube)
 - [Extra AI Tools](#-extra-ai-tools)
 - [Contribute](#-contribute)
 - [Code of Conduct](#-code-of-conduct)
@@ -205,19 +206,19 @@ https://github.com/user-attachments/assets/c08948fb-4bbd-4d0c-a514-879a2274568f
 https://github.com/user-attachments/assets/d932be41-2ebb-4f21-8687-3ced710ee10b
 
 
-## 📺 Watch on You Tube
+## 📺 Watch on YouTube
 
-[Demo Video 1:](https://youtu.be/spvV1CVlvH4)
+- [Demo Video 1:](https://youtu.be/spvV1CVlvH4)
 
-[Demo Video 2:](https://youtu.be/bN-s3DJ1JPs)
+- [Demo Video 2:](https://youtu.be/bN-s3DJ1JPs)
 
-[Demo Video 3:](https://youtu.be/9wjVa3Ka5X8)
+- [Demo Video 3:](https://youtu.be/9wjVa3Ka5X8)
 
-[Demo Video 4:](https://youtu.be/xrOtjU2fZ1U)
+- [Demo Video 4:](https://youtu.be/xrOtjU2fZ1U)
 
-[Demo Video 5:](https://youtu.be/G8sWtYGGwx0)
+- [Demo Video 5:](https://youtu.be/G8sWtYGGwx0)
 
-Demo Video 6: https://youtu.be/Sr0a5Q1-cs0
+- [Demo Video 6:](https://youtu.be/Sr0a5Q1-cs0)
 
 
 
