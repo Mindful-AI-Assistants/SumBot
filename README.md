@@ -181,19 +181,15 @@ https://github.com/user-attachments/assets/732e5bfe-fe61-4502-acd2-41e7bbaa4337
 
  <br>
 
- 3. :clapper: **Demo 3**:
+ 3. :clapper: **Demo 3**: Building the integration of Slack with ChatGpT-3.5 Turbo, Turbo, with the use of an API from OpenAI and return a summary response  in the Slack thread every time someone uses a reaction with the bowtie emoji, and utilizing the AI Monica virtual assistant to compose message
 
 https://github.com/user-attachments/assets/9b407fcd-0835-492f-a6c6-c48e1f384586
 
  <br>
  
- 4.  :clapper: **Demo 4**:
+ 4.  :clapper: **Demo 4**: Testing the functionality of SumBot using the AI Monica virtual assistant to compose messages
 
 https://github.com/user-attachments/assets/5fc934b1-200d-4f5b-a1f7-52f3e792d31b
-
-
-
-
 
 <br>
 
@@ -223,79 +219,6 @@ https://github.com/user-attachments/assets/d932be41-2ebb-4f21-8687-3ced710ee10b
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- 
-## 🎥 Demo Videos:
-
- <br> 
-
-1. :clapper: **Demo 1:** Building Slack Integration on Zappier
-
-https://github.com/MindfulAI-Copilots-Bots/SumBot-FreeCode/assets/113218619/a66c2666-d8d3-430e-a37b-4f8b97779800
-
- <br>
-
-2. :clapper: **Demo 2:** Building the ChatGpT 3.5 Turbo Integration with Slack on Zapier
-
-https://github.com/MindfulAI-Copilots-Bots/SumBot-FreeCode/assets/113218619/6b3eaf88-76be-4676-84f7-ffe73f97e4fb
-
- <br>
-
-3. :clapper: **Demo 3:** Building the integration of Slack with ChatGpT-3.5 Turbo, Turbo, with the use of an API from OpenAI and return a summary response  in the Slack thread every time someone uses a reaction with the bowtie emoji, and utilizing the AI Monica virtual assistant to compose message
-
-https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/d8fbcfa9-4976-439f-9c6d-d8da2c89c413
-
- <br>
-   
-4. :clapper: **Demo 4:** Testing the functionality of SumBot using the AI Monica virtual assistant to compose messages
-
-https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/59ce8336-9913-4272-9b1d-d4c02e276c69
-
- <br>
-
-## 🎥 Extra Demo Videos:
-
- <br>
-
-5- :clapper: **Extra Demo 5:** Extra tools that can be integrated with OpenAI on Zapier
-
-https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/e20d5547-7461-4901-9b40-bb0142fa2b39
-
- <br>
-
-6- :clapper: **Extra Demo 6:** Building the integration of Slack with ChatGpT and return a summary response in the Slack thread every time someone uses a reaction with the bowtie emoji
-
-https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/assets/113218619/cadd1871-8933-4bd5-8768-988827fb01dc 
-
- <br>
-   
--->
-
-
-
-
-
-
-
-
-
-
 
 
 
