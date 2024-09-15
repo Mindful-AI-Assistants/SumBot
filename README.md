@@ -199,11 +199,14 @@ https://github.com/user-attachments/assets/5fc934b1-200d-4f5b-a1f7-52f3e792d31b
 
 ## 🎥 Extra Demo Videos:
 
+
+
+
  <br>
 
+6- :clapper: **Extra Demo 6:** Building the integration of Slack with ChatGpT and return a summary response in the Slack thread every time someone uses a reaction with the bowtie emoji
 
-
-
+https://github.com/user-attachments/assets/d932be41-2ebb-4f21-8687-3ced710ee10b
 
 
 
