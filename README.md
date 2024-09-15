@@ -273,7 +273,7 @@ For any questions, suggestions, or collaborations, feel free to reach out:
 For more information and access to the project, visit:
 
 - The GitHub repository: [SumBot FreeCode](https://github.com/Mindful-AI-Assistants/SumBot-ReadyTensorAI-Hackaton)  
-- Explore Ready Tensor’s AI initiatives: [SumBot-AI-ProjectCompetition-2024](https://app.readytensor.ai/)
+- Explore Ready Tensor’s AI initiatives: [SumBot AI Project Competition 2024](https://app.readytensor.ai/)
 
 
 ## :star: Acknowledgements
