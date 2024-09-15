@@ -44,8 +44,7 @@ https://github.com/user-attachments/assets/5b1847c7-c69c-4e46-9e5d-4058138c2592]
 - [Ferramentas de IA Extra](#-ferramentas-de-ia-extra)
 - [Contribua](#-contribua)
 - [Código de Conduta](#-codigo-de-conduta)
-- [Contato](#-contato)
-- [Agradecimentos](#-agradecimentos)
+- [Contato](#-contato)       <!--[Agradecimentos](#-agradecimentos) -->
 - [Licença](#licenca)
  
 
