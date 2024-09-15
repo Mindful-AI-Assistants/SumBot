@@ -1,10 +1,4 @@
 
-
-
-
-<!-- Start Header -->
-https://github.com/user-attachments/assets/5b1847c7-c69c-4e46-9e5d-4058138c2592](https://github.com/user-attachments/assets/8da9894a-48e4-425c-9174-272297dc8897
-
 <br><br>
  
 ## <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="40"> SumBot FreeCode
@@ -14,9 +8,12 @@ https://github.com/user-attachments/assets/5b1847c7-c69c-4e46-9e5d-4058138c2592]
 
 **SumBot FreeCode** is an AI-powered chatbot, integrated with **GPT-3.5 Turbo**, designed to summarize long messages and deliver concise information. This project was developed by [Fabiana Campanari]() for the [AI Project Showcase Competition 2024]().
 
-#
+<br><br>
 
-<br>
+<!-- Start Header -->
+https://github.com/user-attachments/assets/5b1847c7-c69c-4e46-9e5d-4058138c2592](https://github.com/user-attachments/assets/8da9894a-48e4-425c-9174-272297dc8897
+
+#
 
 <!-- Gb Badges -->
 ####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
