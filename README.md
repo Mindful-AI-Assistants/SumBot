@@ -234,6 +234,10 @@ Contributions are welcome! Here's how to contribute:
    git commit -m 'Add new feature'
    ```
 
+4. Push to the branch:
+   ```bash
+   git push origin feature/YourFeature
+
 
 
 
