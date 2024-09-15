@@ -173,12 +173,31 @@ Example:
 
 https://github.com/user-attachments/assets/971147f2-5de1-46f7-ba56-e4ef1bfae29b
 
+ <br>
 
 2. **Demo 2**: Integrating GPT-3.5 Turbo with Slack  
 
 https://github.com/user-attachments/assets/732e5bfe-fe61-4502-acd2-41e7bbaa4337
 
+ <br>
 
+ 3. **Demo 3
+
+
+
+ 
+
+ <br>
+ 
+ 4. **Demo 4**:
+
+
+
+<br>
+
+## 🎥 Extra Demo Videos:
+
+ <br>
 
 
 
