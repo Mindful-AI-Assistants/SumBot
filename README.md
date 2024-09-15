@@ -199,8 +199,11 @@ https://github.com/user-attachments/assets/5fc934b1-200d-4f5b-a1f7-52f3e792d31b
 
 ## 🎥 Extra Demo Videos:
 
+ <br>
 
+5- :clapper: **Extra Demo 5:** Extra tools that can be integrated with OpenAI on Zapier 
 
+https://github.com/user-attachments/assets/c08948fb-4bbd-4d0c-a514-879a2274568f
 
  <br>
 
