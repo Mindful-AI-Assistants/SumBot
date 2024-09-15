@@ -114,7 +114,7 @@ In a world overflowing with information, **SumBot** helps you cut through the no
 - **AI-Powered Precision**: Utilizes **GPT-3.5 Turbo** for accurate and relevant summaries.
 
 
-## ⚙️ Installation
+## ⚙️ For Developers: Installation
 
 Although SumBot FreeCode is designed to be a real-use solution without the need for direct coding, you may include a `requirements.txt` file and a `python-run.py` script if you wish to use Python for managing integration or running automations in your project.
 
