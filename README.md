@@ -167,6 +167,15 @@ Example:
 - Bot Response: *"Summary: The message talks about..."*
 
 
+## 🎥 Demo Videos [Watch Video]()
+
+1. **Demo 1**: Building Slack Integration on Zapier  
+   [Watch Video](https://github.com/user-attachments/assets/971147f2-5de1-46f7-ba56-e4ef1bfae29b)
+
+
+
+
+[Watch Video]()
 
 
 
