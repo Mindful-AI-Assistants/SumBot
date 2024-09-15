@@ -273,9 +273,12 @@ Para mais informações e acesso ao projeto, visite:
 - O repositório no GitHub: [SumBot FreeCode](https://github.com/Mindful-AI-Assistants/SumBot-ReadyTensorAI-Hackaton)  
 - Explore as iniciativas de IA da Ready Tensor: [AI Project ShowCase Competition 2024](https://app.readytensor.ai/)
 
+
+<!--
 ## :star: Agradecimentos
 
 Agradecimentos especiais a [Fabiana Campanari](https://github.com/FabianaCampanari) por desenvolver sozinha o **SumBot FreeCode**. Sua dedicação e expertise foram essenciais para trazer à vida este inovador chatbot alimentado por IA.
+-->
 
 #
 
