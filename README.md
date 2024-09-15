@@ -139,7 +139,7 @@ To set up **SumBot FreeCode**, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mindful-AI-Assistants/SumBot-ReadyTensorAI-Hackaton.git
+   git clone https://github.com/Mindful-AI-Assistants/SumBot-AI-ProjectCompetition-2024.git
    ```
 
 2. Navigate into the project directory:
