@@ -269,22 +269,6 @@ For more information and access to the project, visit:
 
 Special thanks to [Fabiana Campanari](https://github.com/FabianaCampanari) for single-handedly developing the **SumBot FreeCode**. Her dedication and expertise have been essential in bringing this innovative AI-powered chatbot to life.
 
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
+#
 
 ###### <p align="center">[Copyright 2024 Mindful AI Assistants. Code released under the  MIT license.](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/blob/ed50e73edbc89242bfb21dbf16aef236e1ec9d1f/LICENSE)
