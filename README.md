@@ -49,7 +49,7 @@ For more information and access to the project, visit:
 - [Demo Videos](#-demo-videos)
 - [Extra AI Tools](#-extra-ai-tools)
 - [Contribute](#-contribute)
-- [License](#-license)
+- [Code of Conduc](#-code-of-conduc)
 - [Contact](#-contact)
 - [Acknowledgements](#-acknowledgements)
 - [License](#license)
@@ -245,6 +245,12 @@ Contributions are welcome! Here's how to contribute:
    ```bash
    gh pr create --fill
    ```
+
+## 📜 Code of Conduct
+
+We are committed to fostering an open and welcoming environment. Please take a moment to review our [Code of Conduct](./CODE_OF_CONDUCT.md) to ensure that we can maintain a healthy and inclusive community.
+
+By participating in this project, you agree to adhere to the standards outlined in the Code of Conduct.
 
 
 
