@@ -1,8 +1,6 @@
 <!-- Start Header -->
 
-<!--
-https://github.com/user-attachments/assets/5d926e06-3b75-4d9e-87a1-3830a490f5d4
--->
+https://github.com/user-attachments/assets/5b1847c7-c69c-4e46-9e5d-4058138c2592
 
 <!-- :bowtie: <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="48"> -->
 
