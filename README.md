@@ -43,8 +43,7 @@ https://github.com/user-attachments/assets/5b1847c7-c69c-4e46-9e5d-4058138c2592]
 - [Extra AI Tools](#-extra-ai-tools)
 - [Contribute](#-contribute)
 - [Code of Conduct](#-code-of-conduct)
-- [Contact](#-contact)
-<!-- - [Acknowledgements](#-acknowledgements) -->
+- [Contact](#-contact)   <!-- - [Acknowledgements](#-acknowledgements) -->
 - [License](#license)
  
 
