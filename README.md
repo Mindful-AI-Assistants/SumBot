@@ -234,7 +234,7 @@ Contributions are welcome! Here's how to contribute:
 
 1. Fork the repository.
    ```bash
-    git clone https://github.com/Mindful-AI-Assistants/SumBot-ReadyTensorAI-Hackaton.git
+    git clone https://github.com/Mindful-AI-Assistants/SumBot-AI-ProjectCompetition-2024.git
    ```
 
 2. Create a new branch:
