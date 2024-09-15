@@ -229,6 +229,11 @@ Contributions are welcome! Here's how to contribute:
    git checkout -b feature/YourFeature
    ```
 
+3. Commit your changes:
+   ```bash
+   git commit -m 'Add new feature'
+   ```
+
 
 
 
