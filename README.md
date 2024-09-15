@@ -58,7 +58,7 @@ For more information and access to the project, visit:
 - [Demo Videos](#-demo-videos)
 - [Extra AI Tools](#-extra-ai-tools)
 - [Contribute](#-contribute)
-- [Code of Conduc](#-code-of-conduc)
+- [Code of Conduct](#-code-of-conduct)
 - [Contact](#-contact)
 - [Acknowledgements](#-acknowledgements)
 - [License](#license)
