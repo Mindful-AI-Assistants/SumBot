@@ -169,25 +169,25 @@ Example:
 
 ## 🎥 Demo Videos 
 
-1. **Demo 1**: Building Slack Integration on Zapier
+1. :clapper: **Demo 1**: Building Slack Integration on Zapier
 
 https://github.com/user-attachments/assets/971147f2-5de1-46f7-ba56-e4ef1bfae29b
 
  <br>
 
-2. **Demo 2**: Integrating GPT-3.5 Turbo with Slack  
+2. :clapper: **Demo 2**: Integrating GPT-3.5 Turbo with Slack  
 
 https://github.com/user-attachments/assets/732e5bfe-fe61-4502-acd2-41e7bbaa4337
 
  <br>
 
- 3. **Demo 3**:
+ 3. :clapper: **Demo 3**:
 
 https://github.com/user-attachments/assets/9b407fcd-0835-492f-a6c6-c48e1f384586
 
  <br>
  
- 4. **Demo 4**:
+ 4.  :clapper: **Demo 4**:
 
 https://github.com/user-attachments/assets/5fc934b1-200d-4f5b-a1f7-52f3e792d31b
 
