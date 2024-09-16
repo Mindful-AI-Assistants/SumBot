@@ -32,7 +32,7 @@ The GitHub repository: [SumBot FreeCode](https://github.com/Mindful-AI-Assistant
 
 <br>
 
- ## 🔭๋࣭  Table of Contents
+ ##  🛸๋  Table of Contents
 
 - [Introduction](#-introduction)
 - [Features](#-features)
@@ -58,7 +58,7 @@ The GitHub repository: [SumBot FreeCode](https://github.com/Mindful-AI-Assistant
 Welcome to **SumBot FreeCode**, an AI-powered chatbot that transforms long texts into concise summaries, making communication more efficient. Developed with **GPT-3.5 Turbo** and integrated with platforms like **Slack**, it’s the perfect tool for managing information overload, whether in business settings or academic environments.
 
 
-## *ੈ𑁍༘ Features
+## 🪷⊹ Features
 
 - **Automated Summarization**: Summarizes long texts using GPT-3.5 Turbo.
 - **Slack Integration**: Seamlessly automate tasks within Slack.
@@ -111,7 +111,7 @@ In a world overflowing with information, **SumBot** helps you cut through the no
 - **Writers**: Extracts key points from research materials.
 
 
-## 🪷 Key Benefits
+## 🧿 Key Benefits
 
 - **Time-Saving**: Quickly condenses long texts, so you can focus on what matters.
 - **Enhanced Productivity**: Efficiently manage and process large amounts of information.
@@ -167,7 +167,7 @@ Example:
 - Bot Response: *"Summary: The message talks about..."*
 
 
-## 🎥 Demo Videos 
+##  🔭๋࣭  Demo Videos 
 
 1. :clapper: **Demo 1**: Building Slack Integration on Zapier
 
