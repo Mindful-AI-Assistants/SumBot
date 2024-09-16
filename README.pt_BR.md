@@ -21,6 +21,9 @@ https://github.com/user-attachments/assets/5b1847c7-c69c-4e46-9e5d-4058138c2592]
 -->
 
 
+**SumBot FreeCode** é um chatbot alimentado por IA, integrado com **GPT-3.5 Turbo**, projetado para resumir mensagens longas e oferecer informações concisas. Este projeto foi desenvolvido por [Fabiana Campanari](https://github.com/FabianaCampanari) para a [Competição de Exibição de Projetos de IA 2024](https://app.readytensor.ai/profile).
+
+
 <br>
 
  ## 📑 Índice
