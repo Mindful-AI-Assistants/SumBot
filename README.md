@@ -32,7 +32,7 @@ The GitHub repository: [SumBot FreeCode](https://github.com/Mindful-AI-Assistant
 
 <br>
 
- ## 📑 Table of Contents
+ ## ★🔭๋࣭  Table of Contents
 
 - [Introduction](#-introduction)
 - [Features](#-features)
@@ -53,7 +53,7 @@ The GitHub repository: [SumBot FreeCode](https://github.com/Mindful-AI-Assistant
 - [License](#license)
  
 
-## 📝 Introduction
+## *ੈ✩ Introduction
 
 Welcome to **SumBot FreeCode**, an AI-powered chatbot that transforms long texts into concise summaries, making communication more efficient. Developed with **GPT-3.5 Turbo** and integrated with platforms like **Slack**, it’s the perfect tool for managing information overload, whether in business settings or academic environments.
 
