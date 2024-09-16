@@ -42,7 +42,7 @@ The GitHub repository: [SumBot FreeCode](https://github.com/Mindful-AI-Assistant
 - [How It Works](#-how-it-works)
 - [Who Is It For?](#-who-is-it-for)
 - [Key Benefits](#-key-benefits)
-- [Installation](#-installation)
+- [For Developers](#-installation)
 - [Usage](#-usage)
 - [Demo Videos](#-demo-videos)
 - [Watch on YouTube](#-watch-on-youtube)
