@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/12d1bdde-f3c9-4651-9060-091da3b3dd23
 
 For more information and access to the project, visit:
 
--  The GitHub repository: [SumBot FreeCode](https://github.com/Mindful-AI-Assistants/SumBot)
+The GitHub repository: [SumBot FreeCode](https://github.com/Mindful-AI-Assistants/SumBot)
 
 
 <br>
