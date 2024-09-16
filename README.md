@@ -98,7 +98,7 @@ In a world overflowing with information, **SumBot** helps you cut through the no
 ### <p align="center"> <img width="525" alt="Automation Workflow" src="https://github.com/user-attachments/assets/fc12aef6-7198-4a3a-9515-296f122e2e3e">
 
 
-## :dart: Who Is It For?
+## 🧘🏼‍♀️ Who Is It For?
 
 ### **SumBot FreeCode** is ideal for a variety of users:
 
