@@ -228,7 +228,7 @@ Contributions are welcome! Here's how to contribute:
 
 1. Fork the repository.
    ```bash
-    git clone https://github.com/Mindful-AI-Assistants/SumBot-AI-ProjectCompetition-2024.git
+    git clone https://github.com/Mindful-AI-Assistants/SumBot.git
    ```
 
 2. Create a new branch:
