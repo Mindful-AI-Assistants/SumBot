@@ -111,7 +111,7 @@ In a world overflowing with information, **SumBot** helps you cut through the no
 - **Writers**: Extracts key points from research materials.
 
 
-## 👌 Key Benefits
+## 🪷 Key Benefits
 
 - **Time-Saving**: Quickly condenses long texts, so you can focus on what matters.
 - **Enhanced Productivity**: Efficiently manage and process large amounts of information.
