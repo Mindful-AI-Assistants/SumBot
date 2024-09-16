@@ -264,11 +264,11 @@ By participating in this project, you agree to adhere to the standards outlined 
 
 For any questions, suggestions, or collaborations, feel free to reach out:
 
-- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+[Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
 For more information and access to the project, visit:
 
-- The GitHub repository: [SumBot FreeCode](https://github.com/Mindful-AI-Assistants/SumBot-ReadyTensorAI-Hackaton)
+-  :octocat: The GitHub repository:[SumBot FreeCode](https://github.com/Mindful-AI-Assistants/SumBot-ReadyTensorAI-Hackaton)](https://github.com/Mindful-AI-Assistants/SumBot)
 
 <!--  
 - Explore Ready Tensor’s AI initiatives: [AI Project ShowCase Competition 2024](https://app.readytensor.ai/)
