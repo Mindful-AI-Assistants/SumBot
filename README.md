@@ -153,7 +153,7 @@ To set up **SumBot FreeCode**, follow these steps:
    ```
 
 
-## 🛠️ Usage
+## ˗ˏˋॐˎˊ˗ Usage
 
 To use **SumBot FreeCode**:
 
