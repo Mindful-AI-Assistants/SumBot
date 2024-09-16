@@ -88,7 +88,9 @@ In a world overflowing with information, **SumBot** helps you cut through the no
 2. **Slack**: Provides the platform for user interaction, where **SumBot** summarizes messages when triggered.
 3. **Zapier**: Automates the workflow between Slack and OpenAI, enabling message summaries when specific emojis are used.
 
-### <p align="center"> [Automation Workflow]() ☟ 
+<br?
+
+### <p align="center">  ☟  [Automation Workflow]()
 <!--
  ## <p align="center"> <img src="https://github.com/user-attachments/assets/fe005785-c760-4657-bd3e-086d8a73772a">
  -->
