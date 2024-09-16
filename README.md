@@ -82,7 +82,7 @@ Imagine having a personal assistant that condenses overwhelming amounts of infor
 In a world overflowing with information, **SumBot** helps you cut through the noise by efficiently summarizing lengthy texts. By leveraging **OpenAI**, **Slack**, and **Zapier**, it provides a simple yet powerful solution to improve productivity and communication without requiring any programming knowledge.
 
 
-## ✍️ How It Works
+## 🪬 How It Works
 
 
 
