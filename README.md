@@ -32,7 +32,7 @@ The GitHub repository: [SumBot FreeCode](https://github.com/Mindful-AI-Assistant
 
 <br>
 
- ## ★🔭๋࣭  Table of Contents
+ ## 🔭๋࣭  Table of Contents
 
 - [Introduction](#-introduction)
 - [Features](#-features)
