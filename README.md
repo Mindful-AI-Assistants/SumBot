@@ -229,7 +229,7 @@ https://github.com/user-attachments/assets/d932be41-2ebb-4f21-8687-3ced710ee10b
 5. [InVideo](https://studio.invideo.io/): A video creation and editing platform that allows users to create professional-quality videos with ease, offering a wide range of templates, editing tools, and customization options for various purposes.
 6. [Canva Pro](https://www.canva.com/): Canva Pro is a graphic design platform that offers advanced features to create professional designs easily and intuitively.
 
-## 🙌 Contribute
+## :octocat: Contribute
 
 Contributions are welcome! Here's how to contribute:
 
@@ -258,7 +258,7 @@ Contributions are welcome! Here's how to contribute:
    gh pr create --fill
    ```
 
-## 📜 Code of Conduct
+## 𓏧♡ Code of Conduct
 
 We are committed to fostering an open and welcoming environment. Please take a moment to review our [Code of Conduct](./CODE_OF_CONDUCT.md) to ensure that we can maintain a healthy and inclusive community.
 
@@ -273,7 +273,7 @@ For any questions, suggestions, or collaborations, feel free to reach out:
 
 For more information and access to the project, visit:
 
--  :octocat: The GitHub repository:[SumBot FreeCode](https://github.com/Mindful-AI-Assistants/SumBot)
+-The GitHub repository:[SumBot FreeCode](https://github.com/Mindful-AI-Assistants/SumBot)
 
 <!--  
 - Explore Ready Tensor’s AI initiatives: [AI Project ShowCase Competition 2024](https://app.readytensor.ai/)
