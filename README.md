@@ -30,7 +30,7 @@ For more information and access to the project, visit:
 The GitHub repository: [SumBot FreeCode](https://github.com/Mindful-AI-Assistants/SumBot)
 
 
-<br>
+
 
  ##  🛸๋  Table of Contents
 
