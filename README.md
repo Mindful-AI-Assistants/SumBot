@@ -193,7 +193,7 @@ https://github.com/user-attachments/assets/5fc934b1-200d-4f5b-a1f7-52f3e792d31b
 
 <br>
 
-## 🎥 Extra Demo Videos:
+## 🔭๋࣭  Extra Demo Videos:
 
  <br>
 
@@ -258,11 +258,16 @@ Contributions are welcome! Here's how to contribute:
    gh pr create --fill
    ```
 
-## 𓏧♡ Code of Conduct
+## ⭒✮⭒ Code of Conduct
 
 We are committed to fostering an open and welcoming environment. Please take a moment to review our [Code of Conduct](./CODE_OF_CONDUCT.md) to ensure that we can maintain a healthy and inclusive community.
 
 By participating in this project, you agree to adhere to the standards outlined in the Code of Conduct.
+
+ (🌸❛ ֊ ❛„)♡
+
+
+ 
 
 
 ## 💌 Contact
