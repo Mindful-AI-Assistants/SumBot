@@ -1,49 +1,38 @@
-<!-- Start Header -->
-
-<!--
-https://github.com/user-attachments/assets/5b1847c7-c69c-4e46-9e5d-4058138c2592
--->
-
-
+ \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
 
 <br><br>
  
-## <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="40"> SumBot FreeCode
-#### <p align="center"> 🤖🦾 **AI-Powered ChatBot with GPT-3.5 Turbo integration.**
+## <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="50"> SumBot FreeCode
+### <p align="center"> 🤖🦾 **AI-Powered ChatBot with GPT-3.5 Turbo integration.**
 
-<br>
+<br><br>
+<!-- Start Header -->
+https://github.com/user-attachments/assets/12d1bdde-f3c9-4651-9060-091da3b3dd23
 
-**SumBot FreeCode** is an AI-powered chatbot, integrated with **GPT-3.5 Turbo**, designed to summarize long messages and deliver concise information. This project was developed by [Fabiana Campanari]() for the [AI Project Showcase Competition 2024]().
 
-#
-
-<br>
+<br><br>
 
 <!-- Gb Badges -->
-####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
-
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
-
-####  <p align="center"> [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml) [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml) 
-
-<br>
+####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
 
 <!--
-
-**SumBot FreeCode** leverages the power of **GPT-3.5 Turbo** to automatically summarize long messages, helping users to stay focused and manage information overload. Developed by [Fabiana Campanari](https://github.com/FabianaCampanari)  for the **AI Project Showcase Hackaton 2024**, in collaboration with [Ready Tensor AI](https://app.readytensor.ai/) during the Hackathon, this chatbot is a prime example of AI applied to automated interactions, providing unique and efficient experiences.
-
-For more information and access to the project, visit:
-
-- The GitHub repository: [SumBot FreeCode](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode).  
-
-- Learn more about Ready Tensor's AI platform: [Ready Tensor AI](https://app.readytensor.ai/).
-
+####  <p align="center"> [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml) [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml) 
 -->
 
 <br>
 
- ## 📑 Table of Contents
+
+**SumBot FreeCode** is an AI-powered chatbot, integrated with **GPT-3.5 Turbo**, designed to summarize long messages and deliver concise information. This project was developed by [Fabiana Campanari](https://github.com/FabianaCampanari) for the [AI Project Showcase Competition 2024 organized by Ready Tensor AI](https://app.readytensor.ai/publications/sumbot_freecode_uaWsno2Z7r2a).
+
+For more information and access to the project, visit:
+
+The GitHub repository: [SumBot FreeCode](https://github.com/Mindful-AI-Assistants/SumBot)
+
+
+
+
+ ##  🛸๋  Table of Contents
 
 - [Introduction](#-introduction)
 - [Features](#-features)
@@ -53,23 +42,24 @@ For more information and access to the project, visit:
 - [How It Works](#-how-it-works)
 - [Who Is It For?](#-who-is-it-for)
 - [Key Benefits](#-key-benefits)
-- [Installation](#-installation)
+- [For Developers](#-installation)
 - [Usage](#-usage)
 - [Demo Videos](#-demo-videos)
+- [Watch on YouTube](#-watch-on-youtube)
 - [Extra AI Tools](#-extra-ai-tools)
 - [Contribute](#-contribute)
-- [Code of Conduc](#-code-of-conduc)
-- [Contact](#-contact)
-- [Acknowledgements](#-acknowledgements)
+- [Code of Conduct](#-spread-the-world)
+- [Spread the World](#license)
+- [Contact](#-contact)   <!-- - [Acknowledgements](#-acknowledgements) -->
 - [License](#license)
  
 
-## 📝 Introduction
+## *ੈ✩ Introduction
 
 Welcome to **SumBot FreeCode**, an AI-powered chatbot that transforms long texts into concise summaries, making communication more efficient. Developed with **GPT-3.5 Turbo** and integrated with platforms like **Slack**, it’s the perfect tool for managing information overload, whether in business settings or academic environments.
 
 
-## 🌟 Features
+## 🪷⊹ Features
 
 - **Automated Summarization**: Summarizes long texts using GPT-3.5 Turbo.
 - **Slack Integration**: Seamlessly automate tasks within Slack.
@@ -78,30 +68,30 @@ Welcome to **SumBot FreeCode**, an AI-powered chatbot that transforms long texts
 - **No Programming Required**: Easy to use for everyone, regardless of technical expertise.
 
 
-## 🤔 Purpose
+## 𓋹 Purpose
 
 The purpose of **SumBot FreeCode** is simple: **manage information overload**. By summarizing long texts automatically, it saves time and increases productivity across various platforms, from business reports to academic papers.
 
 
-## 💭 Vision
+## 𓂀 Vision
 
 Imagine having a personal assistant that condenses overwhelming amounts of information into manageable summaries. That’s the vision behind **SumBot**—to simplify workflows by summarizing messages in Slack with a single emoji, such as the :bowtie: bowtie, making communication more streamlined.
 
 
-## :bulb: Why SumBot?
+## 🕯 Why SumBot?
 
 In a world overflowing with information, **SumBot** helps you cut through the noise by efficiently summarizing lengthy texts. By leveraging **OpenAI**, **Slack**, and **Zapier**, it provides a simple yet powerful solution to improve productivity and communication without requiring any programming knowledge.
 
 
-## ✍️ How It Works
-
-
+## 🪬 How It Works
 
 1. **OpenAI API**: Powers the summarization using **GPT-3.5 Turbo**, an advanced natural language model.
 2. **Slack**: Provides the platform for user interaction, where **SumBot** summarizes messages when triggered.
 3. **Zapier**: Automates the workflow between Slack and OpenAI, enabling message summaries when specific emojis are used.
 
-### <p align="center"> [Automation Workflow]() ☟ 
+<br>
+
+### <p align="center">  ☟  [Automation Workflow]()
 <!--
  ## <p align="center"> <img src="https://github.com/user-attachments/assets/fe005785-c760-4657-bd3e-086d8a73772a">
  -->
@@ -109,7 +99,7 @@ In a world overflowing with information, **SumBot** helps you cut through the no
 ### <p align="center"> <img width="525" alt="Automation Workflow" src="https://github.com/user-attachments/assets/fc12aef6-7198-4a3a-9515-296f122e2e3e">
 
 
-## :dart: Who Is It For?
+## 🧘🏼‍♀️ Who Is It For?
 
 ### **SumBot FreeCode** is ideal for a variety of users:
 
@@ -122,7 +112,7 @@ In a world overflowing with information, **SumBot** helps you cut through the no
 - **Writers**: Extracts key points from research materials.
 
 
-## 👌 Key Benefits
+## 🧿 Key Benefits
 
 - **Time-Saving**: Quickly condenses long texts, so you can focus on what matters.
 - **Enhanced Productivity**: Efficiently manage and process large amounts of information.
@@ -131,7 +121,7 @@ In a world overflowing with information, **SumBot** helps you cut through the no
 - **AI-Powered Precision**: Utilizes **GPT-3.5 Turbo** for accurate and relevant summaries.
 
 
-## ⚙️ Installation
+## ᯓ★ For Developers: 
 
 Although SumBot FreeCode is designed to be a real-use solution without the need for direct coding, you may include a `requirements.txt` file and a `python-run.py` script if you wish to use Python for managing integration or running automations in your project.
 
@@ -139,7 +129,7 @@ To set up **SumBot FreeCode**, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mindful-AI-Assistants/SumBot-ReadyTensorAI-Hackaton.git
+   git clone https://github.com/Mindful-AI-Assistants/SumBot.git
    ```
 
 2. Navigate into the project directory:
@@ -164,7 +154,7 @@ To set up **SumBot FreeCode**, follow these steps:
    ```
 
 
-## 🛠️ Usage
+##  🤺 Usage
 
 To use **SumBot FreeCode**:
 
@@ -178,7 +168,7 @@ Example:
 - Bot Response: *"Summary: The message talks about..."*
 
 
-## 🎥 Demo Videos 
+##  🔭๋࣭  Demo Videos 
 
 1. :clapper: **Demo 1**: Building Slack Integration on Zapier
 
@@ -204,7 +194,7 @@ https://github.com/user-attachments/assets/5fc934b1-200d-4f5b-a1f7-52f3e792d31b
 
 <br>
 
-## 🎥 Extra Demo Videos:
+## 🔭๋࣭  Extra Demo Videos:
 
  <br>
 
@@ -219,22 +209,34 @@ https://github.com/user-attachments/assets/c08948fb-4bbd-4d0c-a514-879a2274568f
 https://github.com/user-attachments/assets/d932be41-2ebb-4f21-8687-3ced710ee10b
 
 
+## 📺 Watch on YouTube
+
+- [Presentation Video](https://youtu.be/3XDdwhLv7xU)
+- [Demo Video 1](https://youtu.be/spvV1CVlvH4)
+- [Demo Video 2](https://youtu.be/bN-s3DJ1JPs)
+- [Demo Video 3](https://youtu.be/9wjVa3Ka5X8)
+- [Demo Video 4](https://youtu.be/xrOtjU2fZ1U)
+- [Demo Video 5](https://youtu.be/G8sWtYGGwx0)
+- [Demo Video 6](https://youtu.be/Sr0a5Q1-cs0)
+
+
+
 ## 📚 AI Tools Utilized
 
-1. [OpenAI](https://platform.openai.com/): Provides the AI engine API behind the chatbot using GPT-3.5 Turbo.
+1. [OpenAI GPT-3.5 Turbo ](https://platform.openai.com/docs/models/gpt-3-5-turbo): Provides the AI engine API behind the chatbot using GPT-3.5 Turbo.
 2. [Slack](https://slack.com): The messaging platform where **SumBot** is integrated.
 3. [Zapier](https://zapier.com): Automates workflows between Slack and OpenAI.
 4. [Monica AI](https://monica.im): Used for advanced testing and interaction scenarios.
 5. [InVideo](https://studio.invideo.io/): A video creation and editing platform that allows users to create professional-quality videos with ease, offering a wide range of templates, editing tools, and customization options for various purposes.
+6. [Canva Pro](https://www.canva.com/): Canva Pro is a graphic design platform that offers advanced features to create professional designs easily and intuitively.
 
-
-## 🙌 Contribute
+## :octocat: Contribute
 
 Contributions are welcome! Here's how to contribute:
 
 1. Fork the repository.
    ```bash
-    git clone https://github.com/Mindful-AI-Assistants/SumBot-ReadyTensorAI-Hackaton.git
+    git clone https://github.com/Mindful-AI-Assistants/SumBot.git
    ```
 
 2. Create a new branch:
@@ -257,28 +259,50 @@ Contributions are welcome! Here's how to contribute:
    gh pr create --fill
    ```
 
-## 📜 Code of Conduct
+## ⭒✮⭒ Code of Conduct
 
 We are committed to fostering an open and welcoming environment. Please take a moment to review our [Code of Conduct](./CODE_OF_CONDUCT.md) to ensure that we can maintain a healthy and inclusive community.
 
 By participating in this project, you agree to adhere to the standards outlined in the Code of Conduct.
+
+ (🌸❛ ֊ ❛„)♡
+
+
+
+## [Spread the word!]() 
+
+I  encourage everyone to participate in the project and contribute to its success!
+
+<br>
+
+ # <p align="center">˗ˏˋ[ॐ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)ˎˊ˗
+
+<br>
+
+#### <p align="center"> TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/user-attachments/assets/751b6903-e9b4-483d-860a-bdde627c6890) 🌎🤍
+
+
+ 
+
+
+<br><br>
+
+ ### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
 
 
 ## 💌 Contact
 
 For any questions, suggestions, or collaborations, feel free to reach out:
 
-- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+[Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
 For more information and access to the project, visit:
 
-- The GitHub repository: [SumBot FreeCode](https://github.com/Mindful-AI-Assistants/SumBot-ReadyTensorAI-Hackaton)  
-- Explore Ready Tensor’s AI initiatives: [Ready Tensor AI](https://app.readytensor.ai/)
+-The GitHub repository:[SumBot FreeCode](https://github.com/Mindful-AI-Assistants/SumBot)
 
-
-## :star: Acknowledgements
-
-Special thanks to [Fabiana Campanari](https://github.com/FabianaCampanari) for single-handedly developing the **SumBot FreeCode**. Her dedication and expertise have been essential in bringing this innovative AI-powered chatbot to life.
+<!--  
+- Explore Ready Tensor’s AI initiatives: [AI Project ShowCase Competition 2024](https://app.readytensor.ai/)
+-->
 
 #
 
