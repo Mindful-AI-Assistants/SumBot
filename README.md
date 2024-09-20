@@ -290,6 +290,7 @@ I  encourage everyone to participate in the project and contribute to its succes
 
 ### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
 
+<br>
 
 For any questions, suggestions, or collaborations, feel free to reach out:
 
