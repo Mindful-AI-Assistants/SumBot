@@ -1,5 +1,10 @@
  \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
 
+
+<br>
+
+🏆 I’m honored to be recognized as one of the winners of Ready Tensor's AI Project Showcase Competition 2024! A big thank you to the Ready Tensor AI team for this amazing opportunity. 🚀
+
 <br><br>
  
 ## <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="50"> SumBot FreeCode
