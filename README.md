@@ -6,8 +6,11 @@
 ### <p align="center"> 🤖🦾 **AI-Powered ChatBot with GPT-3.5 Turbo integration.**
 
 
-
-### 🏆 I’m honored to be recognized as one of the winners of Ready Tensor's AI Project Showcase Competition 2024! A big thank you to the Ready Tensor AI team for this amazing opportunity. 🚀
+Este projeto foi vebncedor 
+💡 Best AI Tool Innovation:
+"SumBot FreeCode"
+By Fabiana 🚀 Campanari
+See publication here: https://lnkd.in/gzxy5v3N
 
 
 <br><br>
