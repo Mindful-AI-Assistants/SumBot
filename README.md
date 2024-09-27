@@ -7,7 +7,7 @@
 
 #
 
-<br>
+<br><br>
 
 🏆 **Proud to announce that I am one of the winners of the Ready Tensor AI Project Showcase Competition 2024!** 🏆 
 
@@ -15,9 +15,6 @@
 Explore this award-winning project and other outstanding entries: [Ready Tensor AI Showcase](https://lnkd.in/dFjYJbei)  
 See publication here: [SumBot FreeCode](https://lnkd.in/gzxy5v3N)  
 
-
-
-Essa versão comunica sua conquista de forma clara e profissional.
 
 
 <br><br>
