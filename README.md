@@ -6,11 +6,16 @@
 ### <p align="center"> 🤖🦾 **AI-Powered ChatBot with GPT-3.5 Turbo integration.**
 
 
-Este projeto foi vebncedor 
-💡 Best AI Tool Innovation:
-"SumBot FreeCode"
-By Fabiana 🚀 Campanari
-See publication here: https://lnkd.in/gzxy5v3N
+
+🏆 **Proud to announce that I am one of the winners of the Ready Tensor AI Project Showcase Competition 2024!** 🏆 
+
+💡 **Best AI Tool Innovation:** "SumBot FreeCode" by Fabiana Campanari.  
+Explore this award-winning project and other outstanding entries: [Ready Tensor AI Showcase](https://lnkd.in/dFjYJbei)  
+See publication here: [SumBot FreeCode](https://lnkd.in/gzxy5v3N)  
+
+
+
+Essa versão comunica sua conquista de forma clara e profissional.
 
 
 <br><br>
