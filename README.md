@@ -7,7 +7,7 @@
 
 
 
-## 🏆 I’m honored to be recognized as one of the winners of Ready Tensor's AI Project Showcase Competition 2024! A big thank you to the Ready Tensor AI team for this amazing opportunity. 🚀
+### 🏆 I’m honored to be recognized as one of the winners of Ready Tensor's AI Project Showcase Competition 2024! A big thank you to the Ready Tensor AI team for this amazing opportunity. 🚀
 
 
 <br><br>
