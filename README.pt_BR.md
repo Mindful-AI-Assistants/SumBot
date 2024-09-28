@@ -2,11 +2,13 @@
  \[**[🇧🇷 Português](README.pt_BR.md)**\] \[[🇺🇸 English](README.md)\]
 
 <br>
-### 🏆 **Estou honrada em anunciar que sou uma das vencedoras da Ready Tensor AI Project Showcase Competition  2024 !
 
-### 💡 **Melhor Inovação em Ferramenta de IA:** SumBot FreeCode por [Fabiana Campanari](https://github.com/FabianaCampanari).  
-Explore este projeto premiado e outras entradas excepcionais: [Ready Tensor AI Showcase](https://app.readytensor.ai/competition)  
-Veja a publicação aqui: [SumBot FreeCode](https://app.readytensor.ai/publications/uaWsno2Z7r2a)
+🏆 **Estou orgulhoso de anunciar que sou vencedora da Competição de Exposição de Projetos de IA Ready Tensor 2024!** 🎉
+
+💡 **Melhor Inovação em Ferramenta de IA:** <br>
+👉🏻 SumBot FreeCode por [Fabiana Campanari](https://github.com/FabianaCampanari).  
+👉🏻 Confira este projeto premiado e outros na [Exposição de IA Ready Tensor](https://app.readytensor.ai/competition).  
+👉🏻 Veja a publicação no aplicativo Ready Tensor AI. [SumBot FreeCode](https://app.readytensor.ai/publications/uaWsno2Z7r2a).
 
 <br>
  
