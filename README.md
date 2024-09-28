@@ -1,6 +1,17 @@
+<br><br>
+ 
  \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
 
 <br><br>
+
+### 🏆 **Proud to announce that I am one of the winners of the Ready Tensor AI Project Showcase Competition 2024!** 
+
+### 💡 **Best AI Tool Innovation:** SumBot FreeCode  by [Fabiana Campanari]().  
+Explore this award-winning project and other outstanding entries: [Ready Tensor AI Showcase](https://lnkd.in/dFjYJbei)  
+See publication here: [SumBot FreeCode](https://app.readytensor.ai/publications/uaWsno2Z7r2a)  
+
+<br><br>
+
  
 ## <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="50"> SumBot FreeCode
 ### <p align="center"> 🤖🦾 **AI-Powered ChatBot with GPT-3.5 Turbo integration.**
@@ -9,11 +20,6 @@
 
 <br><br>
 
-🏆 **Proud to announce that I am one of the winners of the Ready Tensor AI Project Showcase Competition 2024!** 
-
-💡 **Best AI Tool Innovation:** SumBot FreeCode  by [Fabiana Campanari]().  
-Explore this award-winning project and other outstanding entries: [Ready Tensor AI Showcase](https://lnkd.in/dFjYJbei)  
-See publication here: [SumBot FreeCode](https://app.readytensor.ai/publications/uaWsno2Z7r2a)  
 
 
 
