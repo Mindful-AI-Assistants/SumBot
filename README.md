@@ -10,7 +10,7 @@
 
 👉🏻 SumBot FreeCode by [Fabiana Campanari](https://github.com/FabianaCampanari).  
 👉🏻 Check out this award-winning project and others at the [Ready Tensor AI Showcase](https://app.readytensor.ai/competition).  
-👉🏻 View the publication here: [SumBot FreeCode](https://app.readytensor.ai/publications/uaWsno2Z7r2a).
+👉🏻 View the publication on the Ready Tensor AI app. [SumBot FreeCode](https://app.readytensor.ai/publications/uaWsno2Z7r2a).
 
 <br>
  
