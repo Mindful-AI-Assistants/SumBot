@@ -11,17 +11,11 @@ Explore this award-winning project and other outstanding entries: [Ready Tensor 
 See publication here: [SumBot FreeCode](https://app.readytensor.ai/publications/uaWsno2Z7r2a)  
 
 <br>
-
  
 ## <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="50"> SumBot FreeCode
 ### <p align="center"> 🤖🦾 **AI-Powered ChatBot with GPT-3.5 Turbo integration.**
 
 #
-
-<br><br>
-
-
-
 
 <br><br>
 <!-- Start Header -->
