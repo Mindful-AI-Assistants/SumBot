@@ -1,10 +1,17 @@
 
  \[**[🇧🇷 Português](README.pt_BR.md)**\] \[[🇺🇸 English](README.md)\]
 
-<br><br>
+<br>
+### 🏆 **Estou honrada em anunciar que sou uma das vencedoras da Ready Tensor AI Project Showcase Competition  2024 !
+
+### 💡 **Melhor Inovação em Ferramenta de IA:** SumBot FreeCode por [Fabiana Campanari](https://github.com/FabianaCampanari).  
+Explore este projeto premiado e outras entradas excepcionais: [Ready Tensor AI Showcase](https://app.readytensor.ai/competition)  
+Veja a publicação aqui: [SumBot FreeCode](https://app.readytensor.ai/publications/uaWsno2Z7r2a)
+
+<br>
  
-## <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="40"> SumBot FreeCode
-#### <p align="center"> 🤖🦾 **AI-Powered ChatBot with GPT-3.5 Turbo integration.**
+## <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="50"> SumBot FreeCode
+### <p align="center"> 🤖🦾 **AI-Powered ChatBot with GPT-3.5 Turbo integration.**
 
 <br><br>
 <!-- Start Header -->
@@ -20,6 +27,8 @@ https://github.com/user-attachments/assets/12d1bdde-f3c9-4651-9060-091da3b3dd23
 <!--
 ####  <p align="center"> [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml) [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml) 
 -->
+
+<br><br>
 
 
 **SumBot FreeCode** é um chatbot alimentado por IA, integrado com **GPT-3.5 Turbo**, projetado para resumir mensagens longas e oferecer informações concisas. Este projeto foi desenvolvido por [Fabiana Campanari](https://github.com/FabianaCampanari) para a [Competição de Exibição de Projetos de IA 2024](https://app.readytensor.ai/profile).
