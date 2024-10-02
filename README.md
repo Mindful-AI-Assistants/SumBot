@@ -3,7 +3,6 @@
 
 <br>
 
-
 🏆 **I am proud to announce that I am a winner of the Ready Tensor AI Project Showcase Competition 2024!** 🎉
 
 💡 **Best AI Tool Innovation:** <br>
