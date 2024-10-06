@@ -318,7 +318,11 @@ For more information and access to the project, visit:
 
 ## 🏆 Ready Tensor AI Project Showcase 2024 - Best AI Tool Innovation Award
 
-![Ready Tensor AI Project Showcase 2024 - Best AI Tool Innovation](https://github.com/user-attachments/assets/27954751-6dde-4b21-929f-9dc111fbc3dc)
+<br>
+
+### <p align="center"> <img src="https://github.com/user-attachments/assets/27954751-6dde-4b21-929f-9dc111fbc3dc" />
+
+![Ready Tensor AI Project Showcase 2024 - Best AI Tool Innovation]()
 
 
 #
