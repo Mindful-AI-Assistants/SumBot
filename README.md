@@ -314,15 +314,13 @@ For more information and access to the project, visit:
 
 - Explore Ready Tensor’s AI initiatives: [AI Project ShowCase Competition 2024](https://app.readytensor.ai/)
 
-
+<br>
  
-## 🏆 Ready Tensor AI Project Showcase 2024 - Best AI Tool Innovation Award
+## 🏆 Ready Tensor AI Project Showcase 2024 - Certificate for Best AI Tool Innovation Award
 
 <br>
 
 ### <p align="center"> <img src="https://github.com/user-attachments/assets/27954751-6dde-4b21-929f-9dc111fbc3dc" />
-
-![Ready Tensor AI Project Showcase 2024 - Best AI Tool Innovation]()
 
 
 #
