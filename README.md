@@ -3,7 +3,7 @@
 
 <br>
 
-🏆 **I am proud to announce that I am a winner of the Ready Tensor AI Project Showcase Competition 2024!** 🎉
+I am proud to announce that this project won the Ready Tensor AI Project Showcase Competition 2024!
 
 💡 **Best AI Tool Innovation:** <br>
 👉🏻 SumBot FreeCode by [Fabiana Campanari](https://github.com/FabianaCampanari).  
