@@ -6,8 +6,7 @@
 🏆 **I am thrilled to announce that this project [won the Best AI Tool Innovation Award at the Ready Tensor AI Project Showcase Competition 2024](https://github.com/Mindful-AI-Assistants/SumBot/blob/8783b148a8aa34a976dedfa61995449aead79a37/Ready%20Tensor%20AI%20Project%20Showcase%202024%20-%20Best%20AI%20Tool%20Innovation.pdf)!** 🪷
 
 💡 **Best AI Tool Innovation:** <br>
-👉🏻 SumBot FreeCode by [Fabiana Campanari](https://github.com/FabianaCampanari).  
-👉🏻 Check out this award-winning project and others at the [Ready Tensor AI Showcase](https://app.readytensor.ai/competition).  
+👉🏻 SumBot FreeCode by [Fabiana Campanari](https://github.com/FabianaCampanari).    
 👉🏻 View the publication on the Ready Tensor AI app. [SumBot FreeCode](https://app.readytensor.ai/publications/uaWsno2Z7r2a).
 
 <br>
