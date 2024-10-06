@@ -314,6 +314,10 @@ For more information and access to the project, visit:
 
 - Explore Ready Tensor’s AI initiatives: [AI Project ShowCase Competition 2024](https://app.readytensor.ai/)
 
+ #
+
+## 🏆 Ready Tensor AI 2024 Award Certificate
+
 #
 
 ###### <p align="center">[Copyright 2024 Mindful AI Assistants. Code released under the  MIT license.](https://github.com/Mindful-AI-Assistants/SumBot-FreeCode/blob/ed50e73edbc89242bfb21dbf16aef236e1ec9d1f/LICENSE)
