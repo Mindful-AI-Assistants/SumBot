@@ -61,7 +61,7 @@ The GitHub repository: [SumBot FreeCode](https://github.com/Mindful-AI-Assistant
 - [Code of Conduct](#-spread-the-world)
 - [Spread the World](#license)
 - [Contact](#-contact)   <!-- - [Acknowledgements](#-acknowledgements) -->
-- [Ready Tensor AI Project Showcase 2024 - Best AI Tool Innovation Award](#ready-tensor-ai-certificate)
+- [Ready Tensor AI Project Showcase 2024 - Best AI Tool Innovation Award Certificate](#ready-tensor-ai-project-showcase-2024-best-ai-tool-innovation-award-certificate)
 - [License](#license)
  
 
@@ -314,8 +314,8 @@ For more information and access to the project, visit:
 
 - Explore Ready Tensor’s AI initiatives: [AI Project ShowCase Competition 2024](https://app.readytensor.ai/)
 
- #
 
+ 
 ## 🏆 Ready Tensor AI Project Showcase 2024 - Best AI Tool Innovation Award
 
 <br>
