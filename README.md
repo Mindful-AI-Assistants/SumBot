@@ -40,6 +40,8 @@ For more information and access to the project, visit:
 
 The GitHub repository: [SumBot FreeCode](https://github.com/Mindful-AI-Assistants/SumBot)
 
+Ready Tensor AI : [SumBot FreeCode](https://app.readytensor.ai/publications/uaWsno2Z7r2a).
+
 
 
 
