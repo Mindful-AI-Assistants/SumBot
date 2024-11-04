@@ -63,6 +63,7 @@ The GitHub repository: [SumBot FreeCode](https://github.com/Mindful-AI-Assistant
 - [Spread the World](#license)
 - [Contact](#-contact)   <!-- - [Acknowledgements](#-acknowledgements) -->
 - [Ready Tensor AI Project Showcase 2024 - Certificate for Best AI Tool Innovation Award](#-ready-tensor-ai-project-showcase-2024-certificate-best-ai-tool-innovation-award)
+- [Main Theoretical Reference](#-main-theoretical-reference)
 - [License](#-license)
  
 
@@ -326,6 +327,17 @@ For more information and access to the project, visit:
 <br><br>
 
 <p align="center"> <a href="#top">Back to top</a>
+
+
+
+<br><br>
+
+## Main Theoretical Reference
+
+* RAJ, S. Building Chatbots with Python. São Paulo: Novatec, 2020.
+* NG, A. Machine Learning Yearning: Technical Strategy for AI Engineers, In the Era of Deep Learning. 2018. Available at: https://www.mlyearning.org.
+
+
 
 
 
