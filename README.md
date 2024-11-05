@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/12d1bdde-f3c9-4651-9060-091da3b3dd23
 <br><br>
 
 
-**SumBot FreeCode** is an AI-powered chatbot, integrated with **GPT-3.5 Turbo**, designed to summarize long messages and deliver concise information. This project was developed by [Fabiana Campanari](https://github.com/FabianaCampanari) for the [AI Project Showcase Competition 2024 organized by Ready Tensor AI](https://app.readytensor.ai/competition).
+**SumBot FreeCode** is an AI-powered chatbot, integrated with GPT-3.5 Turbo**, designed to summarize long messages and deliver concise information. This project was developed by [Fabiana Campanari](https://github.com/FabianaCampanari) for the [AI Project Showcase Competition 2024 organized by Ready Tensor AI](https://app.readytensor.ai/competition).
 
 <br>
 
