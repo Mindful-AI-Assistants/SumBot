@@ -236,6 +236,7 @@ https://github.com/user-attachments/assets/d932be41-2ebb-4f21-8687-3ced710ee10b
 - [Demo Video 4](https://youtu.be/xrOtjU2fZ1U)
 - [Demo Video 5](https://youtu.be/G8sWtYGGwx0)
 - [Demo Video 6](https://youtu.be/Sr0a5Q1-cs0)
+- [5th Artificial Intelligence Congress of PUC-SP 2024 - The presentation starts at 3h:26min:20s of the video.](https://www.youtube.com/watch?v=d7WaC06C6m4)
 
 
 
