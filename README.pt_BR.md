@@ -226,6 +226,7 @@ https://github.com/user-attachments/assets/d932be41-2ebb-4f21-8687-3ced710ee10b
 - [Vídeo de Demonstração 4](https://youtu.be/xrOtjU2fZ1U)
 - [Vídeo de Demonstração 5](https://youtu.be/G8sWtYGGwx0)
 - [Vídeo de Demonstração 6](https://youtu.be/Sr0a5Q1-cs0)
+- [5º Congresso de Inteligência Artificial da PUC-SP 2024 - A apresentação começa às 3h:26min:20s do vídeo.](https://www.youtube.com/watch?v=d7WaC06C6m4)
 
 ## 📚 Ferramentas de IA Utilizadas
 
