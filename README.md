@@ -16,7 +16,7 @@
 ## <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="50"> SumBot FreeCode
 ### <p align="center"> 🤖🦾 **"SumBot FreeCode: [AI Chatbot]() Integrated with Slack using OpenAI GPT-3.5 Turbo API"**.**
 
-<
+<br>
 
 
 ####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md) 
