@@ -309,9 +309,9 @@ I  encourage everyone to participate in the project and contribute to its succes
 
 ### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
 
-<br>
 
-For any questions, suggestions, or collaborations, feel free to reach out:
+
+## 👌 For any questions, suggestions, or collaborations, feel free to reach out:
 
 [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
@@ -340,8 +340,8 @@ For more information and access to the project, visit:
 
 ## Main Theoretical Reference
 
-* RAJ, S. Building Chatbots with Python. São Paulo: Novatec, 2020.
-* NG, A. Machine Learning Yearning: Technical Strategy for AI Engineers, In the Era of Deep Learning. 2018. Available at: https://www.mlyearning.org.
+✍️ * RAJ, S. Building Chatbots with Python. São Paulo: Novatec, 2020.
+✍️ * NG, A. Machine Learning Yearning: Technical Strategy for AI Engineers, In the Era of Deep Learning. 2018. Available at: https://www.mlyearning.org.
 
 
 
