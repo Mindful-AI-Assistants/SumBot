@@ -14,7 +14,7 @@
 <br>
  
 ## <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="50"> SumBot FreeCode
-### <p align="center"> 🤖🦾 **"SumBot FreeCode: [AI Chatbot]() Integrated with Slack using OpenAI GPT-3.5 Turbo API"**.**
+#### <p align="center"> 🤖🦾 **"SumBot FreeCode: [AI Chatbot]() Integrated with Slack using OpenAI GPT-3.5 Turbo API"**.
 
 <br>
 
