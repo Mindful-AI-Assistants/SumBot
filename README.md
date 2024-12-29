@@ -8,6 +8,7 @@
 💡 **Best AI Tool Innovation:** <br>
 
 👉🏻 View the publication on the Ready Tensor [SumBot FreeCode](https://app.readytensor.ai/publications/uaWsno2Z7r2a).
+
 👉🏻 SumBot FreeCode by [Fabiana Campanari](https://github.com/FabianaCampanari).    
 
 
