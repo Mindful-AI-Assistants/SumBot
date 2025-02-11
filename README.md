@@ -114,11 +114,10 @@ In a world overflowing with information, **SumBot** helps you cut through the no
 <!--
  ## <p align="center"> <img src="https://github.com/user-attachments/assets/fe005785-c760-4657-bd3e-086d8a73772a">
  -->
-
-### <p align="center"> <img width="525" alt="Automation Workflow" src="https://github.com/user-attachments/assets/fc12aef6-7198-4a3a-9515-296f122e2e3e">
-
+ 
 ### <p align="center"> <img width="525" alt="Automation Workflow" src="https://github.com/user-attachments/assets/a53c9461-a807-4b23-8a62-66061680e0c5" />
 
+<br>
 
 ## 🧘🏼‍♀️ Who Is It For?
 
