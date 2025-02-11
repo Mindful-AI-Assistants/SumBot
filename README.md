@@ -117,6 +117,8 @@ In a world overflowing with information, **SumBot** helps you cut through the no
 
 ### <p align="center"> <img width="525" alt="Automation Workflow" src="https://github.com/user-attachments/assets/fc12aef6-7198-4a3a-9515-296f122e2e3e">
 
+![Image](https://github.com/user-attachments/assets/a53c9461-a807-4b23-8a62-66061680e0c5)
+
 
 ## 🧘🏼‍♀️ Who Is It For?
 
