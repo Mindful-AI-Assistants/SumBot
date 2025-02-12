@@ -49,7 +49,7 @@ For more information and access to the project, visit:
 
 <br>
 
- ## 🔭๋࣭  Table of Contents
+ ## 🔭๋ Table of Contents
 
 - [Introduction](#-introduction)
 - [Features](#-features)
@@ -78,7 +78,7 @@ For more information and access to the project, visit:
 Welcome to **SumBot FreeCode**, an AI-powered chatbot that transforms long texts into concise summaries, making communication more efficient. Developed with **GPT-3.5 Turbo** and integrated with platforms like **Slack**, it’s the perfect tool for managing information overload, whether in business settings or academic environments.
 
 
-## *ੈ𑁍༘ Features
+## *ੈ Features
 
 - **Automated Summarization**: Summarizes long texts using GPT-3.5 Turbo.
 - **Slack Integration**: Seamlessly automate tasks within Slack.
