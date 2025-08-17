@@ -21,7 +21,7 @@ jobs:
     environment: ${{ inputs.environment }}
     steps:
       - name: Checkout OEA Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - name: OIDC Login to Azure Public Cloud with AzPowershell (enableAzPSSession true)
         uses: azure/login@v2
         with:
